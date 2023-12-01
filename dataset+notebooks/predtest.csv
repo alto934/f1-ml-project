@@ -1,0 +1,441 @@
+raceId,resultId,driverId,constructorId,year,round,name_mer3,nationality,circuitRef,driverRef,constructorRef,country,alt,date,dob,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,grid,race_finish_pos,points_awarded,points_driver,championship_pos,cum_wins,status,driver_age,home_race,points_before_race,wins,predicted_win
+1052,24966,1,131,2021,1,Bahrain Grand Prix,British,bahrain,hamilton,mercedes,Bahrain,7,2021-03-28,1985-01-07,1,0,0,0,0,2,1,25.0,25.0,1.0,1.0,Finished,36.2,0,0.0,1,1
+1052,24967,830,9,2021,1,Bahrain Grand Prix,Dutch,bahrain,max_verstappen,red_bull,Bahrain,7,2021-03-28,1997-09-30,1,0,0,0,0,1,2,18.0,18.0,2.0,0.0,Finished,23.5,0,0.0,0,0
+1052,24968,822,131,2021,1,Bahrain Grand Prix,Finnish,bahrain,bottas,mercedes,Bahrain,7,2021-03-28,1989-08-28,1,0,0,0,0,3,3,16.0,16.0,3.0,0.0,Finished,31.6,0,0.0,0,0
+1052,24969,846,1,2021,1,Bahrain Grand Prix,British,bahrain,norris,mclaren,Bahrain,7,2021-03-28,1999-11-13,1,0,0,0,0,7,4,12.0,12.0,4.0,0.0,Finished,21.4,0,0.0,0,0
+1052,24970,815,9,2021,1,Bahrain Grand Prix,Mexican,bahrain,perez,red_bull,Bahrain,7,2021-03-28,1990-01-26,1,0,0,0,0,0,5,10.0,10.0,5.0,0.0,Finished,31.2,0,0.0,0,0
+1052,24971,844,6,2021,1,Bahrain Grand Prix,Monegasque,bahrain,leclerc,ferrari,Bahrain,7,2021-03-28,1997-10-16,1,0,0,0,0,4,6,8.0,8.0,6.0,0.0,Finished,23.4,0,0.0,0,0
+1052,24972,817,1,2021,1,Bahrain Grand Prix,Australian,bahrain,ricciardo,mclaren,Bahrain,7,2021-03-28,1989-07-01,1,0,0,0,0,6,7,6.0,6.0,7.0,0.0,Finished,31.7,0,0.0,0,0
+1052,24973,832,6,2021,1,Bahrain Grand Prix,Spanish,bahrain,sainz,ferrari,Bahrain,7,2021-03-28,1994-09-01,1,0,0,0,0,8,8,4.0,4.0,8.0,0.0,Finished,26.6,0,0.0,0,0
+1052,24974,852,213,2021,1,Bahrain Grand Prix,Japanese,bahrain,tsunoda,alphatauri,Bahrain,7,2021-03-28,2000-05-11,1,0,0,0,0,13,9,2.0,2.0,9.0,0.0,Finished,20.9,0,0.0,0,0
+1052,24975,840,117,2021,1,Bahrain Grand Prix,Canadian,bahrain,stroll,aston_martin,Bahrain,7,2021-03-28,1998-10-29,1,0,0,0,0,10,10,1.0,1.0,10.0,0.0,Finished,22.4,0,0.0,0,0
+1052,24976,8,51,2021,1,Bahrain Grand Prix,Finnish,bahrain,raikkonen,alfa,Bahrain,7,2021-03-28,1979-10-17,1,0,0,0,0,14,11,0.0,0.0,11.0,0.0,Finished,41.4,0,0.0,0,0
+1052,24977,841,51,2021,1,Bahrain Grand Prix,Italian,bahrain,giovinazzi,alfa,Bahrain,7,2021-03-28,1993-12-14,1,0,0,0,0,12,12,0.0,0.0,12.0,0.0,Finished,27.3,0,0.0,0,0
+1052,24978,839,214,2021,1,Bahrain Grand Prix,French,bahrain,ocon,alpine,Bahrain,7,2021-03-28,1996-09-17,1,0,0,0,0,16,13,0.0,0.0,13.0,0.0,Finished,24.5,0,0.0,0,0
+1052,24979,847,3,2021,1,Bahrain Grand Prix,British,bahrain,russell,williams,Bahrain,7,2021-03-28,1998-02-15,1,0,0,0,0,15,14,0.0,0.0,14.0,0.0,Finished,23.1,0,0.0,0,0
+1052,24980,20,117,2021,1,Bahrain Grand Prix,German,bahrain,vettel,aston_martin,Bahrain,7,2021-03-28,1987-07-03,1,0,0,0,0,20,15,0.0,0.0,15.0,0.0,Finished,33.7,0,0.0,0,0
+1052,24981,854,210,2021,1,Bahrain Grand Prix,German,bahrain,mick_schumacher,haas,Bahrain,7,2021-03-28,1999-03-22,1,0,0,0,0,18,16,0.0,0.0,16.0,0.0,Finished,22.0,0,0.0,0,0
+1052,24982,842,213,2021,1,Bahrain Grand Prix,French,bahrain,gasly,alphatauri,Bahrain,7,2021-03-28,1996-02-07,1,0,0,0,0,5,17,0.0,0.0,17.0,0.0,Retired,25.1,0,0.0,0,0
+1052,24983,849,3,2021,1,Bahrain Grand Prix,Canadian,bahrain,latifi,williams,Bahrain,7,2021-03-28,1995-06-29,1,0,0,0,0,17,18,0.0,0.0,18.0,0.0,Retired,25.7,0,0.0,0,0
+1052,24984,4,214,2021,1,Bahrain Grand Prix,Spanish,bahrain,alonso,alpine,Bahrain,7,2021-03-28,1981-07-29,1,0,0,0,0,9,0,0.0,0.0,19.0,0.0,Brakes,39.7,0,0.0,0,0
+1052,24985,853,210,2021,1,Bahrain Grand Prix,Russian,bahrain,mazepin,haas,Bahrain,7,2021-03-28,1999-03-02,1,0,0,0,0,19,0,0.0,0.0,20.0,0.0,Accident,22.1,0,0.0,0,0
+1053,24986,830,9,2021,2,Emilia Romagna Grand Prix,Dutch,imola,max_verstappen,red_bull,Italy,37,2021-04-18,1997-09-30,0,0,1,1,0,3,1,25.0,43.0,2.0,1.0,Finished,23.5,0,18.0,1,0
+1053,24987,1,131,2021,2,Emilia Romagna Grand Prix,British,imola,hamilton,mercedes,Italy,37,2021-04-18,1985-01-07,0,0,1,1,0,1,2,19.0,44.0,1.0,1.0,Finished,36.3,0,25.0,0,1
+1053,24988,846,1,2021,2,Emilia Romagna Grand Prix,British,imola,norris,mclaren,Italy,37,2021-04-18,1999-11-13,0,0,1,1,0,7,3,15.0,27.0,3.0,0.0,Finished,21.4,0,12.0,0,0
+1053,24989,844,6,2021,2,Emilia Romagna Grand Prix,Monegasque,imola,leclerc,ferrari,Italy,37,2021-04-18,1997-10-16,0,0,1,1,0,4,4,12.0,20.0,4.0,0.0,Finished,23.5,0,8.0,0,0
+1053,24990,832,6,2021,2,Emilia Romagna Grand Prix,Spanish,imola,sainz,ferrari,Italy,37,2021-04-18,1994-09-01,0,0,1,1,0,11,5,10.0,14.0,6.0,0.0,Finished,26.6,0,4.0,0,0
+1053,24991,817,1,2021,2,Emilia Romagna Grand Prix,Australian,imola,ricciardo,mclaren,Italy,37,2021-04-18,1989-07-01,0,0,1,1,0,6,6,8.0,14.0,7.0,0.0,Finished,31.8,0,6.0,0,0
+1053,24992,842,213,2021,2,Emilia Romagna Grand Prix,French,imola,gasly,alphatauri,Italy,37,2021-04-18,1996-02-07,0,0,1,1,0,5,7,6.0,6.0,9.0,0.0,Finished,25.2,0,0.0,0,0
+1053,24993,840,117,2021,2,Emilia Romagna Grand Prix,Canadian,imola,stroll,aston_martin,Italy,37,2021-04-18,1998-10-29,0,0,1,1,0,10,8,4.0,5.0,10.0,0.0,Finished,22.5,0,1.0,0,0
+1053,24994,839,214,2021,2,Emilia Romagna Grand Prix,French,imola,ocon,alpine,Italy,37,2021-04-18,1996-09-17,0,0,1,1,0,9,9,2.0,2.0,12.0,0.0,Finished,24.6,0,0.0,0,0
+1053,24995,4,214,2021,2,Emilia Romagna Grand Prix,Spanish,imola,alonso,alpine,Italy,37,2021-04-18,1981-07-29,0,0,1,1,0,15,10,1.0,1.0,13.0,0.0,Finished,39.7,0,0.0,0,0
+1053,24996,815,9,2021,2,Emilia Romagna Grand Prix,Mexican,imola,perez,red_bull,Italy,37,2021-04-18,1990-01-26,0,0,1,1,0,2,11,0.0,10.0,8.0,0.0,Finished,31.2,0,10.0,0,0
+1053,24997,852,213,2021,2,Emilia Romagna Grand Prix,Japanese,imola,tsunoda,alphatauri,Italy,37,2021-04-18,2000-05-11,0,0,1,1,0,20,12,0.0,2.0,11.0,0.0,Finished,20.9,0,2.0,0,0
+1053,24998,8,51,2021,2,Emilia Romagna Grand Prix,Finnish,imola,raikkonen,alfa,Italy,37,2021-04-18,1979-10-17,0,0,1,1,0,16,13,0.0,0.0,14.0,0.0,Finished,41.5,0,0.0,0,0
+1053,24999,841,51,2021,2,Emilia Romagna Grand Prix,Italian,imola,giovinazzi,alfa,Italy,37,2021-04-18,1993-12-14,0,0,1,1,0,17,14,0.0,0.0,15.0,0.0,Finished,27.3,1,0.0,0,0
+1053,25000,20,117,2021,2,Emilia Romagna Grand Prix,German,imola,vettel,aston_martin,Italy,37,2021-04-18,1987-07-03,0,0,1,1,0,0,15,0.0,0.0,17.0,0.0,Gearbox,33.8,0,0.0,0,0
+1053,25001,854,210,2021,2,Emilia Romagna Grand Prix,German,imola,mick_schumacher,haas,Italy,37,2021-04-18,1999-03-22,0,0,1,1,0,18,16,0.0,0.0,18.0,0.0,Finished,22.1,0,0.0,0,0
+1053,25002,853,210,2021,2,Emilia Romagna Grand Prix,Russian,imola,mazepin,haas,Italy,37,2021-04-18,1999-03-02,0,0,1,1,0,19,17,0.0,0.0,19.0,0.0,Finished,22.1,0,0.0,0,0
+1053,25003,822,131,2021,2,Emilia Romagna Grand Prix,Finnish,imola,bottas,mercedes,Italy,37,2021-04-18,1989-08-28,0,0,1,1,0,8,0,0.0,16.0,5.0,0.0,Collision,31.6,0,16.0,0,0
+1053,25004,847,3,2021,2,Emilia Romagna Grand Prix,British,imola,russell,williams,Italy,37,2021-04-18,1998-02-15,0,0,1,1,0,12,0,0.0,0.0,16.0,0.0,Collision,23.2,0,0.0,0,0
+1053,25005,849,3,2021,2,Emilia Romagna Grand Prix,Canadian,imola,latifi,williams,Italy,37,2021-04-18,1995-06-29,0,0,1,1,0,14,0,0.0,0.0,20.0,0.0,Collision,25.8,0,0.0,0,0
+1054,25006,1,131,2021,3,Portuguese Grand Prix,British,portimao,hamilton,mercedes,Portugal,108,2021-05-02,1985-01-07,0,0,0,0,0,2,1,25.0,69.0,1.0,2.0,Finished,36.3,0,44.0,1,1
+1054,25007,830,9,2021,3,Portuguese Grand Prix,Dutch,portimao,max_verstappen,red_bull,Portugal,108,2021-05-02,1997-09-30,0,0,0,0,0,3,2,18.0,61.0,2.0,1.0,Finished,23.6,0,43.0,0,0
+1054,25008,822,131,2021,3,Portuguese Grand Prix,Finnish,portimao,bottas,mercedes,Portugal,108,2021-05-02,1989-08-28,0,0,0,0,0,1,3,16.0,32.0,4.0,0.0,Finished,31.7,0,16.0,0,0
+1054,25009,815,9,2021,3,Portuguese Grand Prix,Mexican,portimao,perez,red_bull,Portugal,108,2021-05-02,1990-01-26,0,0,0,0,0,4,4,12.0,22.0,6.0,0.0,Finished,31.3,0,10.0,0,0
+1054,25010,846,1,2021,3,Portuguese Grand Prix,British,portimao,norris,mclaren,Portugal,108,2021-05-02,1999-11-13,0,0,0,0,0,7,5,10.0,37.0,3.0,0.0,Finished,21.5,0,27.0,0,0
+1054,25011,844,6,2021,3,Portuguese Grand Prix,Monegasque,portimao,leclerc,ferrari,Portugal,108,2021-05-02,1997-10-16,0,0,0,0,0,8,6,8.0,28.0,5.0,0.0,Finished,23.5,0,20.0,0,0
+1054,25012,839,214,2021,3,Portuguese Grand Prix,French,portimao,ocon,alpine,Portugal,108,2021-05-02,1996-09-17,0,0,0,0,0,6,7,6.0,8.0,9.0,0.0,Finished,24.6,0,2.0,0,0
+1054,25013,4,214,2021,3,Portuguese Grand Prix,Spanish,portimao,alonso,alpine,Portugal,108,2021-05-02,1981-07-29,0,0,0,0,0,13,8,4.0,5.0,12.0,0.0,Finished,39.8,0,1.0,0,0
+1054,25014,817,1,2021,3,Portuguese Grand Prix,Australian,portimao,ricciardo,mclaren,Portugal,108,2021-05-02,1989-07-01,0,0,0,0,0,16,9,2.0,16.0,7.0,0.0,Finished,31.8,0,14.0,0,0
+1054,25015,842,213,2021,3,Portuguese Grand Prix,French,portimao,gasly,alphatauri,Portugal,108,2021-05-02,1996-02-07,0,0,0,0,0,9,10,1.0,7.0,10.0,0.0,Finished,25.2,0,6.0,0,0
+1054,25016,832,6,2021,3,Portuguese Grand Prix,Spanish,portimao,sainz,ferrari,Portugal,108,2021-05-02,1994-09-01,0,0,0,0,0,5,11,0.0,14.0,8.0,0.0,Finished,26.7,0,14.0,0,0
+1054,25017,841,51,2021,3,Portuguese Grand Prix,Italian,portimao,giovinazzi,alfa,Portugal,108,2021-05-02,1993-12-14,0,0,0,0,0,12,12,0.0,0.0,15.0,0.0,Finished,27.4,0,0.0,0,0
+1054,25018,20,117,2021,3,Portuguese Grand Prix,German,portimao,vettel,aston_martin,Portugal,108,2021-05-02,1987-07-03,0,0,0,0,0,10,13,0.0,0.0,16.0,0.0,Finished,33.8,0,0.0,0,0
+1054,25019,840,117,2021,3,Portuguese Grand Prix,Canadian,portimao,stroll,aston_martin,Portugal,108,2021-05-02,1998-10-29,0,0,0,0,0,17,14,0.0,5.0,11.0,0.0,Finished,22.5,0,5.0,0,0
+1054,25020,852,213,2021,3,Portuguese Grand Prix,Japanese,portimao,tsunoda,alphatauri,Portugal,108,2021-05-02,2000-05-11,0,0,0,0,0,14,15,0.0,2.0,13.0,0.0,Finished,21.0,0,2.0,0,0
+1054,25021,847,3,2021,3,Portuguese Grand Prix,British,portimao,russell,williams,Portugal,108,2021-05-02,1998-02-15,0,0,0,0,0,11,16,0.0,0.0,17.0,0.0,Finished,23.2,0,0.0,0,0
+1054,25022,854,210,2021,3,Portuguese Grand Prix,German,portimao,mick_schumacher,haas,Portugal,108,2021-05-02,1999-03-22,0,0,0,0,0,19,17,0.0,0.0,18.0,0.0,Finished,22.1,0,0.0,0,0
+1054,25023,849,3,2021,3,Portuguese Grand Prix,Canadian,portimao,latifi,williams,Portugal,108,2021-05-02,1995-06-29,0,0,0,0,0,18,18,0.0,0.0,20.0,0.0,Finished,25.8,0,0.0,0,0
+1054,25024,853,210,2021,3,Portuguese Grand Prix,Russian,portimao,mazepin,haas,Portugal,108,2021-05-02,1999-03-02,0,0,0,0,0,20,19,0.0,0.0,19.0,0.0,Finished,22.2,0,0.0,0,0
+1054,25025,8,51,2021,3,Portuguese Grand Prix,Finnish,portimao,raikkonen,alfa,Portugal,108,2021-05-02,1979-10-17,0,0,0,0,0,15,0,0.0,0.0,14.0,0.0,Collision damage,41.5,0,0.0,0,0
+1055,25026,1,131,2021,4,Spanish Grand Prix,British,catalunya,hamilton,mercedes,Spain,109,2021-05-09,1985-01-07,0,0,0,0,1,1,1,25.0,94.0,1.0,3.0,Finished,36.3,0,69.0,1,1
+1055,25027,830,9,2021,4,Spanish Grand Prix,Dutch,catalunya,max_verstappen,red_bull,Spain,109,2021-05-09,1997-09-30,0,0,0,0,1,2,2,19.0,80.0,2.0,1.0,Finished,23.6,0,61.0,0,0
+1055,25028,822,131,2021,4,Spanish Grand Prix,Finnish,catalunya,bottas,mercedes,Spain,109,2021-05-09,1989-08-28,0,0,0,0,1,3,3,15.0,47.0,3.0,0.0,Finished,31.7,0,32.0,0,0
+1055,25029,844,6,2021,4,Spanish Grand Prix,Monegasque,catalunya,leclerc,ferrari,Spain,109,2021-05-09,1997-10-16,0,0,0,0,1,4,4,12.0,40.0,5.0,0.0,Finished,23.6,0,28.0,0,0
+1055,25030,815,9,2021,4,Spanish Grand Prix,Mexican,catalunya,perez,red_bull,Spain,109,2021-05-09,1990-01-26,0,0,0,0,1,8,5,10.0,32.0,6.0,0.0,Finished,31.3,0,22.0,0,0
+1055,25031,817,1,2021,4,Spanish Grand Prix,Australian,catalunya,ricciardo,mclaren,Spain,109,2021-05-09,1989-07-01,0,0,0,0,1,7,6,8.0,24.0,7.0,0.0,Finished,31.9,0,16.0,0,0
+1055,25032,832,6,2021,4,Spanish Grand Prix,Spanish,catalunya,sainz,ferrari,Spain,109,2021-05-09,1994-09-01,0,0,0,0,1,6,7,6.0,20.0,8.0,0.0,Finished,26.7,1,14.0,0,0
+1055,25033,846,1,2021,4,Spanish Grand Prix,British,catalunya,norris,mclaren,Spain,109,2021-05-09,1999-11-13,0,0,0,0,1,9,8,4.0,41.0,4.0,0.0,Finished,21.5,0,37.0,0,0
+1055,25034,839,214,2021,4,Spanish Grand Prix,French,catalunya,ocon,alpine,Spain,109,2021-05-09,1996-09-17,0,0,0,0,1,5,9,2.0,10.0,9.0,0.0,Finished,24.6,0,8.0,0,0
+1055,25035,842,213,2021,4,Spanish Grand Prix,French,catalunya,gasly,alphatauri,Spain,109,2021-05-09,1996-02-07,0,0,0,0,1,12,10,1.0,8.0,10.0,0.0,Finished,25.3,0,7.0,0,0
+1055,25036,840,117,2021,4,Spanish Grand Prix,Canadian,catalunya,stroll,aston_martin,Spain,109,2021-05-09,1998-10-29,0,0,0,0,1,11,11,0.0,5.0,11.0,0.0,Finished,22.5,0,5.0,0,0
+1055,25037,8,51,2021,4,Spanish Grand Prix,Finnish,catalunya,raikkonen,alfa,Spain,109,2021-05-09,1979-10-17,0,0,0,0,1,17,12,0.0,0.0,14.0,0.0,Finished,41.6,0,0.0,0,0
+1055,25038,20,117,2021,4,Spanish Grand Prix,German,catalunya,vettel,aston_martin,Spain,109,2021-05-09,1987-07-03,0,0,0,0,1,13,13,0.0,0.0,16.0,0.0,Finished,33.9,0,0.0,0,0
+1055,25039,847,3,2021,4,Spanish Grand Prix,British,catalunya,russell,williams,Spain,109,2021-05-09,1998-02-15,0,0,0,0,1,15,14,0.0,0.0,17.0,0.0,Finished,23.2,0,0.0,0,0
+1055,25040,841,51,2021,4,Spanish Grand Prix,Italian,catalunya,giovinazzi,alfa,Spain,109,2021-05-09,1993-12-14,0,0,0,0,1,14,15,0.0,0.0,15.0,0.0,Finished,27.4,0,0.0,0,0
+1055,25041,849,3,2021,4,Spanish Grand Prix,Canadian,catalunya,latifi,williams,Spain,109,2021-05-09,1995-06-29,0,0,0,0,1,19,16,0.0,0.0,19.0,0.0,Finished,25.9,0,0.0,0,0
+1055,25042,4,214,2021,4,Spanish Grand Prix,Spanish,catalunya,alonso,alpine,Spain,109,2021-05-09,1981-07-29,0,0,0,0,1,10,17,0.0,5.0,12.0,0.0,Finished,39.8,1,5.0,0,0
+1055,25043,854,210,2021,4,Spanish Grand Prix,German,catalunya,mick_schumacher,haas,Spain,109,2021-05-09,1999-03-22,0,0,0,0,1,18,18,0.0,0.0,18.0,0.0,Finished,22.1,0,0.0,0,0
+1055,25044,853,210,2021,4,Spanish Grand Prix,Russian,catalunya,mazepin,haas,Spain,109,2021-05-09,1999-03-02,0,0,0,0,1,20,19,0.0,0.0,20.0,0.0,Finished,22.2,0,0.0,0,0
+1055,25045,852,213,2021,4,Spanish Grand Prix,Japanese,catalunya,tsunoda,alphatauri,Spain,109,2021-05-09,2000-05-11,0,0,0,0,1,16,0,0.0,2.0,13.0,0.0,Electrical,21.0,0,2.0,0,0
+1056,25047,832,6,2021,5,Monaco Grand Prix,Spanish,monaco,sainz,ferrari,Monaco,7,2021-05-23,1994-09-01,1,0,0,0,0,4,2,18.0,38.0,7.0,0.0,Finished,26.7,0,20.0,0,0
+1056,25046,830,9,2021,5,Monaco Grand Prix,Dutch,monaco,max_verstappen,red_bull,Monaco,7,2021-05-23,1997-09-30,1,0,0,0,0,2,1,25.0,105.0,1.0,2.0,Finished,23.6,0,80.0,1,0
+1056,25048,846,1,2021,5,Monaco Grand Prix,British,monaco,norris,mclaren,Monaco,7,2021-05-23,1999-11-13,1,0,0,0,0,5,3,15.0,56.0,3.0,0.0,Finished,21.5,0,41.0,0,0
+1056,25049,815,9,2021,5,Monaco Grand Prix,Mexican,monaco,perez,red_bull,Monaco,7,2021-05-23,1990-01-26,1,0,0,0,0,9,4,12.0,44.0,5.0,0.0,Finished,31.3,0,32.0,0,0
+1056,25050,20,117,2021,5,Monaco Grand Prix,German,monaco,vettel,aston_martin,Monaco,7,2021-05-23,1987-07-03,1,0,0,0,0,8,5,10.0,10.0,11.0,0.0,Finished,33.9,0,0.0,0,0
+1056,25051,842,213,2021,5,Monaco Grand Prix,French,monaco,gasly,alphatauri,Monaco,7,2021-05-23,1996-02-07,1,0,0,0,0,6,6,8.0,16.0,9.0,0.0,Finished,25.3,0,8.0,0,0
+1056,25052,1,131,2021,5,Monaco Grand Prix,British,monaco,hamilton,mercedes,Monaco,7,2021-05-23,1985-01-07,1,0,0,0,0,7,7,7.0,101.0,2.0,3.0,Finished,36.4,0,94.0,0,0
+1056,25053,840,117,2021,5,Monaco Grand Prix,Canadian,monaco,stroll,aston_martin,Monaco,7,2021-05-23,1998-10-29,1,0,0,0,0,13,8,4.0,9.0,12.0,0.0,Finished,22.6,0,5.0,0,0
+1056,25054,839,214,2021,5,Monaco Grand Prix,French,monaco,ocon,alpine,Monaco,7,2021-05-23,1996-09-17,1,0,0,0,0,11,9,2.0,12.0,10.0,0.0,Finished,24.7,0,10.0,0,0
+1056,25055,841,51,2021,5,Monaco Grand Prix,Italian,monaco,giovinazzi,alfa,Monaco,7,2021-05-23,1993-12-14,1,0,0,0,0,10,10,1.0,1.0,15.0,0.0,Finished,27.4,0,0.0,0,0
+1056,25056,8,51,2021,5,Monaco Grand Prix,Finnish,monaco,raikkonen,alfa,Monaco,7,2021-05-23,1979-10-17,1,0,0,0,0,14,11,0.0,0.0,16.0,0.0,Finished,41.6,0,0.0,0,0
+1056,25057,817,1,2021,5,Monaco Grand Prix,Australian,monaco,ricciardo,mclaren,Monaco,7,2021-05-23,1989-07-01,1,0,0,0,0,12,12,0.0,24.0,8.0,0.0,Finished,31.9,0,24.0,0,0
+1056,25058,4,214,2021,5,Monaco Grand Prix,Spanish,monaco,alonso,alpine,Monaco,7,2021-05-23,1981-07-29,1,0,0,0,0,17,13,0.0,5.0,13.0,0.0,Finished,39.8,0,5.0,0,0
+1056,25059,847,3,2021,5,Monaco Grand Prix,British,monaco,russell,williams,Monaco,7,2021-05-23,1998-02-15,1,0,0,0,0,15,14,0.0,0.0,17.0,0.0,Finished,23.3,0,0.0,0,0
+1056,25060,849,3,2021,5,Monaco Grand Prix,Canadian,monaco,latifi,williams,Monaco,7,2021-05-23,1995-06-29,1,0,0,0,0,18,15,0.0,0.0,18.0,0.0,Finished,25.9,0,0.0,0,0
+1056,25061,852,213,2021,5,Monaco Grand Prix,Japanese,monaco,tsunoda,alphatauri,Monaco,7,2021-05-23,2000-05-11,1,0,0,0,0,16,16,0.0,2.0,14.0,0.0,Finished,21.0,0,2.0,0,0
+1056,25062,853,210,2021,5,Monaco Grand Prix,Russian,monaco,mazepin,haas,Monaco,7,2021-05-23,1999-03-02,1,0,0,0,0,19,17,0.0,0.0,20.0,0.0,Finished,22.2,0,0.0,0,0
+1056,25063,854,210,2021,5,Monaco Grand Prix,German,monaco,mick_schumacher,haas,Monaco,7,2021-05-23,1999-03-22,1,0,0,0,0,20,18,0.0,0.0,19.0,0.0,Finished,22.2,0,0.0,0,0
+1056,25064,822,131,2021,5,Monaco Grand Prix,Finnish,monaco,bottas,mercedes,Monaco,7,2021-05-23,1989-08-28,1,0,0,0,0,3,0,0.0,47.0,4.0,0.0,Wheel nut,31.7,0,47.0,0,0
+1056,25065,844,6,2021,5,Monaco Grand Prix,Monegasque,monaco,leclerc,ferrari,Monaco,7,2021-05-23,1997-10-16,1,0,0,0,0,1,0,0.0,40.0,6.0,0.0,Driveshaft,23.6,1,40.0,0,0
+1057,25066,815,9,2021,6,Azerbaijan Grand Prix,Mexican,baku,perez,red_bull,Azerbaijan,-7,2021-06-06,1990-01-26,1,0,0,0,0,6,1,25.0,69.0,3.0,1.0,Finished,31.4,0,44.0,1,0
+1057,25067,20,117,2021,6,Azerbaijan Grand Prix,German,baku,vettel,aston_martin,Azerbaijan,-7,2021-06-06,1987-07-03,1,0,0,0,0,11,2,18.0,28.0,9.0,0.0,Finished,33.9,0,10.0,0,0
+1057,25068,842,213,2021,6,Azerbaijan Grand Prix,French,baku,gasly,alphatauri,Azerbaijan,-7,2021-06-06,1996-02-07,1,0,0,0,0,4,3,15.0,31.0,8.0,0.0,Finished,25.3,0,16.0,0,0
+1057,25069,844,6,2021,6,Azerbaijan Grand Prix,Monegasque,baku,leclerc,ferrari,Azerbaijan,-7,2021-06-06,1997-10-16,1,0,0,0,0,1,4,12.0,52.0,5.0,0.0,Finished,23.6,0,40.0,0,0
+1057,25070,846,1,2021,6,Azerbaijan Grand Prix,British,baku,norris,mclaren,Azerbaijan,-7,2021-06-06,1999-11-13,1,0,0,0,0,9,5,10.0,66.0,4.0,0.0,Finished,21.6,0,56.0,0,0
+1057,25071,4,214,2021,6,Azerbaijan Grand Prix,Spanish,baku,alonso,alpine,Azerbaijan,-7,2021-06-06,1981-07-29,1,0,0,0,0,8,6,8.0,13.0,11.0,0.0,Finished,39.9,0,5.0,0,0
+1057,25072,852,213,2021,6,Azerbaijan Grand Prix,Japanese,baku,tsunoda,alphatauri,Azerbaijan,-7,2021-06-06,2000-05-11,1,0,0,0,0,7,7,6.0,8.0,14.0,0.0,Finished,21.1,0,2.0,0,0
+1057,25073,832,6,2021,6,Azerbaijan Grand Prix,Spanish,baku,sainz,ferrari,Azerbaijan,-7,2021-06-06,1994-09-01,1,0,0,0,0,5,8,4.0,42.0,7.0,0.0,Finished,26.8,0,38.0,0,0
+1057,25074,817,1,2021,6,Azerbaijan Grand Prix,Australian,baku,ricciardo,mclaren,Azerbaijan,-7,2021-06-06,1989-07-01,1,0,0,0,0,13,9,2.0,26.0,10.0,0.0,Finished,31.9,0,24.0,0,0
+1057,25075,8,51,2021,6,Azerbaijan Grand Prix,Finnish,baku,raikkonen,alfa,Azerbaijan,-7,2021-06-06,1979-10-17,1,0,0,0,0,14,10,1.0,1.0,15.0,0.0,Finished,41.6,0,0.0,0,0
+1057,25076,841,51,2021,6,Azerbaijan Grand Prix,Italian,baku,giovinazzi,alfa,Azerbaijan,-7,2021-06-06,1993-12-14,1,0,0,0,0,20,11,0.0,1.0,16.0,0.0,Finished,27.5,0,1.0,0,0
+1057,25077,822,131,2021,6,Azerbaijan Grand Prix,Finnish,baku,bottas,mercedes,Azerbaijan,-7,2021-06-06,1989-08-28,1,0,0,0,0,10,12,0.0,47.0,6.0,0.0,Finished,31.8,0,47.0,0,0
+1057,25078,854,210,2021,6,Azerbaijan Grand Prix,German,baku,mick_schumacher,haas,Azerbaijan,-7,2021-06-06,1999-03-22,1,0,0,0,0,17,13,0.0,0.0,17.0,0.0,Finished,22.2,0,0.0,0,0
+1057,25079,853,210,2021,6,Azerbaijan Grand Prix,Russian,baku,mazepin,haas,Azerbaijan,-7,2021-06-06,1999-03-02,1,0,0,0,0,18,14,0.0,0.0,19.0,0.0,Finished,22.3,0,0.0,0,0
+1057,25080,1,131,2021,6,Azerbaijan Grand Prix,British,baku,hamilton,mercedes,Azerbaijan,-7,2021-06-06,1985-01-07,1,0,0,0,0,2,15,0.0,101.0,2.0,3.0,Finished,36.4,0,101.0,0,1
+1057,25081,849,3,2021,6,Azerbaijan Grand Prix,Canadian,baku,latifi,williams,Azerbaijan,-7,2021-06-06,1995-06-29,1,0,0,0,0,16,16,0.0,0.0,20.0,0.0,Finished,25.9,0,0.0,0,0
+1057,25082,847,3,2021,6,Azerbaijan Grand Prix,British,baku,russell,williams,Azerbaijan,-7,2021-06-06,1998-02-15,1,0,0,0,0,15,0,0.0,0.0,18.0,0.0,Gearbox,23.3,0,0.0,0,0
+1057,25083,830,9,2021,6,Azerbaijan Grand Prix,Dutch,baku,max_verstappen,red_bull,Azerbaijan,-7,2021-06-06,1997-09-30,1,0,0,0,0,3,0,0.0,105.0,1.0,2.0,Accident,23.7,0,105.0,0,0
+1057,25084,840,117,2021,6,Azerbaijan Grand Prix,Canadian,baku,stroll,aston_martin,Azerbaijan,-7,2021-06-06,1998-10-29,1,0,0,0,0,19,0,0.0,9.0,13.0,0.0,Accident,22.6,0,9.0,0,0
+1057,25085,839,214,2021,6,Azerbaijan Grand Prix,French,baku,ocon,alpine,Azerbaijan,-7,2021-06-06,1996-09-17,1,0,0,0,0,12,0,0.0,12.0,12.0,0.0,Turbo,24.7,0,12.0,0,0
+1059,25086,830,9,2021,7,French Grand Prix,Dutch,ricard,max_verstappen,red_bull,France,432,2021-06-20,1997-09-30,0,0,0,0,1,1,1,26.0,131.0,1.0,3.0,Finished,23.7,0,105.0,1,1
+1059,25087,1,131,2021,7,French Grand Prix,British,ricard,hamilton,mercedes,France,432,2021-06-20,1985-01-07,0,0,0,0,1,2,2,18.0,119.0,2.0,3.0,Finished,36.4,0,101.0,0,1
+1059,25088,815,9,2021,7,French Grand Prix,Mexican,ricard,perez,red_bull,France,432,2021-06-20,1990-01-26,0,0,0,0,1,4,3,15.0,84.0,3.0,1.0,Finished,31.4,0,69.0,0,0
+1059,25089,822,131,2021,7,French Grand Prix,Finnish,ricard,bottas,mercedes,France,432,2021-06-20,1989-08-28,0,0,0,0,1,3,4,12.0,59.0,5.0,0.0,Finished,31.8,0,47.0,0,0
+1059,25090,846,1,2021,7,French Grand Prix,British,ricard,norris,mclaren,France,432,2021-06-20,1999-11-13,0,0,0,0,1,8,5,10.0,76.0,4.0,0.0,Finished,21.6,0,66.0,0,0
+1059,25091,817,1,2021,7,French Grand Prix,Australian,ricard,ricciardo,mclaren,France,432,2021-06-20,1989-07-01,0,0,0,0,1,10,6,8.0,34.0,9.0,0.0,Finished,32.0,0,26.0,0,0
+1059,25092,842,213,2021,7,French Grand Prix,French,ricard,gasly,alphatauri,France,432,2021-06-20,1996-02-07,0,0,0,0,1,6,7,6.0,37.0,8.0,0.0,Finished,25.4,1,31.0,0,0
+1059,25093,4,214,2021,7,French Grand Prix,Spanish,ricard,alonso,alpine,France,432,2021-06-20,1981-07-29,0,0,0,0,1,9,8,4.0,17.0,11.0,0.0,Finished,39.9,0,13.0,0,0
+1059,25094,20,117,2021,7,French Grand Prix,German,ricard,vettel,aston_martin,France,432,2021-06-20,1987-07-03,0,0,0,0,1,12,9,2.0,30.0,10.0,0.0,Finished,34.0,0,28.0,0,0
+1059,25095,840,117,2021,7,French Grand Prix,Canadian,ricard,stroll,aston_martin,France,432,2021-06-20,1998-10-29,0,0,0,0,1,19,10,1.0,10.0,13.0,0.0,Finished,22.6,0,9.0,0,0
+1059,25096,832,6,2021,7,French Grand Prix,Spanish,ricard,sainz,ferrari,France,432,2021-06-20,1994-09-01,0,0,0,0,1,5,11,0.0,42.0,7.0,0.0,Finished,26.8,0,42.0,0,0
+1059,25097,847,3,2021,7,French Grand Prix,British,ricard,russell,williams,France,432,2021-06-20,1998-02-15,0,0,0,0,1,14,12,0.0,0.0,17.0,0.0,Finished,23.3,0,0.0,0,0
+1059,25098,852,213,2021,7,French Grand Prix,Japanese,ricard,tsunoda,alphatauri,France,432,2021-06-20,2000-05-11,0,0,0,0,1,0,13,0.0,8.0,14.0,0.0,Finished,21.1,0,8.0,0,0
+1059,25099,839,214,2021,7,French Grand Prix,French,ricard,ocon,alpine,France,432,2021-06-20,1996-09-17,0,0,0,0,1,11,14,0.0,12.0,12.0,0.0,Finished,24.8,1,12.0,0,0
+1059,25100,841,51,2021,7,French Grand Prix,Italian,ricard,giovinazzi,alfa,France,432,2021-06-20,1993-12-14,0,0,0,0,1,13,15,0.0,1.0,16.0,0.0,Finished,27.5,0,1.0,0,0
+1059,25101,844,6,2021,7,French Grand Prix,Monegasque,ricard,leclerc,ferrari,France,432,2021-06-20,1997-10-16,0,0,0,0,1,7,16,0.0,52.0,6.0,0.0,Finished,23.7,0,52.0,0,0
+1059,25102,8,51,2021,7,French Grand Prix,Finnish,ricard,raikkonen,alfa,France,432,2021-06-20,1979-10-17,0,0,0,0,1,17,17,0.0,1.0,15.0,0.0,Finished,41.7,0,1.0,0,0
+1059,25103,849,3,2021,7,French Grand Prix,Canadian,ricard,latifi,williams,France,432,2021-06-20,1995-06-29,0,0,0,0,1,16,18,0.0,0.0,20.0,0.0,Finished,26.0,0,0.0,0,0
+1059,25104,854,210,2021,7,French Grand Prix,German,ricard,mick_schumacher,haas,France,432,2021-06-20,1999-03-22,0,0,0,0,1,15,19,0.0,0.0,18.0,0.0,Finished,22.2,0,0.0,0,0
+1059,25105,853,210,2021,7,French Grand Prix,Russian,ricard,mazepin,haas,France,432,2021-06-20,1999-03-02,0,0,0,0,1,18,20,0.0,0.0,19.0,0.0,Finished,22.3,0,0.0,0,0
+1058,25106,830,9,2021,8,Styrian Grand Prix,Dutch,red_bull_ring,max_verstappen,red_bull,Austria,678,2021-06-27,1997-09-30,0,0,0,0,1,1,1,25.0,156.0,1.0,4.0,Finished,23.7,0,131.0,1,1
+1058,25107,1,131,2021,8,Styrian Grand Prix,British,red_bull_ring,hamilton,mercedes,Austria,678,2021-06-27,1985-01-07,0,0,0,0,1,2,2,19.0,138.0,2.0,3.0,Finished,36.5,0,119.0,0,1
+1058,25108,822,131,2021,8,Styrian Grand Prix,Finnish,red_bull_ring,bottas,mercedes,Austria,678,2021-06-27,1989-08-28,0,0,0,0,1,5,3,15.0,74.0,5.0,0.0,Finished,31.8,0,59.0,0,0
+1058,25109,815,9,2021,8,Styrian Grand Prix,Mexican,red_bull_ring,perez,red_bull,Austria,678,2021-06-27,1990-01-26,0,0,0,0,1,4,4,12.0,96.0,3.0,1.0,Finished,31.4,0,84.0,0,0
+1058,25110,846,1,2021,8,Styrian Grand Prix,British,red_bull_ring,norris,mclaren,Austria,678,2021-06-27,1999-11-13,0,0,0,0,1,3,5,10.0,86.0,4.0,0.0,Finished,21.6,0,76.0,0,0
+1058,25111,832,6,2021,8,Styrian Grand Prix,Spanish,red_bull_ring,sainz,ferrari,Austria,678,2021-06-27,1994-09-01,0,0,0,0,1,12,6,8.0,50.0,7.0,0.0,Finished,26.8,0,42.0,0,0
+1058,25112,844,6,2021,8,Styrian Grand Prix,Monegasque,red_bull_ring,leclerc,ferrari,Austria,678,2021-06-27,1997-10-16,0,0,0,0,1,7,7,6.0,58.0,6.0,0.0,Finished,23.7,0,52.0,0,0
+1058,25113,840,117,2021,8,Styrian Grand Prix,Canadian,red_bull_ring,stroll,aston_martin,Austria,678,2021-06-27,1998-10-29,0,0,0,0,1,9,8,4.0,14.0,12.0,0.0,Finished,22.7,0,10.0,0,0
+1058,25114,4,214,2021,8,Styrian Grand Prix,Spanish,red_bull_ring,alonso,alpine,Austria,678,2021-06-27,1981-07-29,0,0,0,0,1,8,9,2.0,19.0,11.0,0.0,Finished,39.9,0,17.0,0,0
+1058,25115,852,213,2021,8,Styrian Grand Prix,Japanese,red_bull_ring,tsunoda,alphatauri,Austria,678,2021-06-27,2000-05-11,0,0,0,0,1,11,10,1.0,9.0,14.0,0.0,Finished,21.1,0,8.0,0,0
+1058,25116,8,51,2021,8,Styrian Grand Prix,Finnish,red_bull_ring,raikkonen,alfa,Austria,678,2021-06-27,1979-10-17,0,0,0,0,1,18,11,0.0,1.0,15.0,0.0,Finished,41.7,0,1.0,0,0
+1058,25117,20,117,2021,8,Styrian Grand Prix,German,red_bull_ring,vettel,aston_martin,Austria,678,2021-06-27,1987-07-03,0,0,0,0,1,14,12,0.0,30.0,10.0,0.0,Finished,34.0,0,30.0,0,0
+1058,25118,817,1,2021,8,Styrian Grand Prix,Australian,red_bull_ring,ricciardo,mclaren,Austria,678,2021-06-27,1989-07-01,0,0,0,0,1,13,13,0.0,34.0,9.0,0.0,Finished,32.0,0,34.0,0,0
+1058,25119,839,214,2021,8,Styrian Grand Prix,French,red_bull_ring,ocon,alpine,Austria,678,2021-06-27,1996-09-17,0,0,0,0,1,17,14,0.0,12.0,13.0,0.0,Finished,24.8,0,12.0,0,0
+1058,25120,841,51,2021,8,Styrian Grand Prix,Italian,red_bull_ring,giovinazzi,alfa,Austria,678,2021-06-27,1993-12-14,0,0,0,0,1,15,15,0.0,1.0,16.0,0.0,Finished,27.5,0,1.0,0,0
+1058,25121,854,210,2021,8,Styrian Grand Prix,German,red_bull_ring,mick_schumacher,haas,Austria,678,2021-06-27,1999-03-22,0,0,0,0,1,19,16,0.0,0.0,18.0,0.0,Finished,22.3,0,0.0,0,0
+1058,25122,849,3,2021,8,Styrian Grand Prix,Canadian,red_bull_ring,latifi,williams,Austria,678,2021-06-27,1995-06-29,0,0,0,0,1,16,17,0.0,0.0,20.0,0.0,Finished,26.0,0,0.0,0,0
+1058,25123,853,210,2021,8,Styrian Grand Prix,Russian,red_bull_ring,mazepin,haas,Austria,678,2021-06-27,1999-03-02,0,0,0,0,1,20,18,0.0,0.0,19.0,0.0,Finished,22.3,0,0.0,0,0
+1058,25124,847,3,2021,8,Styrian Grand Prix,British,red_bull_ring,russell,williams,Austria,678,2021-06-27,1998-02-15,0,0,0,0,1,10,0,0.0,0.0,17.0,0.0,Engine,23.4,0,0.0,0,0
+1058,25125,842,213,2021,8,Styrian Grand Prix,French,red_bull_ring,gasly,alphatauri,Austria,678,2021-06-27,1996-02-07,0,0,0,0,1,6,0,0.0,37.0,8.0,0.0,Collision,25.4,0,37.0,0,0
+1060,25126,830,9,2021,9,Austrian Grand Prix,Dutch,red_bull_ring,max_verstappen,red_bull,Austria,678,2021-07-04,1997-09-30,0,0,0,0,1,1,1,26.0,182.0,1.0,5.0,Finished,23.8,0,156.0,1,1
+1060,25127,822,131,2021,9,Austrian Grand Prix,Finnish,red_bull_ring,bottas,mercedes,Austria,678,2021-07-04,1989-08-28,0,0,0,0,1,5,2,18.0,92.0,5.0,0.0,Finished,31.8,0,74.0,0,0
+1060,25128,846,1,2021,9,Austrian Grand Prix,British,red_bull_ring,norris,mclaren,Austria,678,2021-07-04,1999-11-13,0,0,0,0,1,2,3,15.0,101.0,4.0,0.0,Finished,21.6,0,86.0,0,0
+1060,25129,1,131,2021,9,Austrian Grand Prix,British,red_bull_ring,hamilton,mercedes,Austria,678,2021-07-04,1985-01-07,0,0,0,0,1,4,4,12.0,150.0,2.0,3.0,Finished,36.5,0,138.0,0,0
+1060,25130,832,6,2021,9,Austrian Grand Prix,Spanish,red_bull_ring,sainz,ferrari,Austria,678,2021-07-04,1994-09-01,0,0,0,0,1,10,5,10.0,60.0,7.0,0.0,Finished,26.8,0,50.0,0,0
+1060,25131,815,9,2021,9,Austrian Grand Prix,Mexican,red_bull_ring,perez,red_bull,Austria,678,2021-07-04,1990-01-26,0,0,0,0,1,3,6,8.0,104.0,3.0,1.0,Finished,31.4,0,96.0,0,0
+1060,25132,817,1,2021,9,Austrian Grand Prix,Australian,red_bull_ring,ricciardo,mclaren,Austria,678,2021-07-04,1989-07-01,0,0,0,0,1,13,7,6.0,40.0,8.0,0.0,Finished,32.0,0,34.0,0,0
+1060,25133,844,6,2021,9,Austrian Grand Prix,Monegasque,red_bull_ring,leclerc,ferrari,Austria,678,2021-07-04,1997-10-16,0,0,0,0,1,12,8,4.0,62.0,6.0,0.0,Finished,23.7,0,58.0,0,0
+1060,25134,842,213,2021,9,Austrian Grand Prix,French,red_bull_ring,gasly,alphatauri,Austria,678,2021-07-04,1996-02-07,0,0,0,0,1,6,9,2.0,39.0,9.0,0.0,Finished,25.4,0,37.0,0,0
+1060,25135,4,214,2021,9,Austrian Grand Prix,Spanish,red_bull_ring,alonso,alpine,Austria,678,2021-07-04,1981-07-29,0,0,0,0,1,14,10,1.0,20.0,11.0,0.0,Finished,39.9,0,19.0,0,0
+1060,25136,847,3,2021,9,Austrian Grand Prix,British,red_bull_ring,russell,williams,Austria,678,2021-07-04,1998-02-15,0,0,0,0,1,8,11,0.0,0.0,17.0,0.0,Finished,23.4,0,0.0,0,0
+1060,25137,852,213,2021,9,Austrian Grand Prix,Japanese,red_bull_ring,tsunoda,alphatauri,Austria,678,2021-07-04,2000-05-11,0,0,0,0,1,7,12,0.0,9.0,14.0,0.0,Finished,21.1,0,9.0,0,0
+1060,25138,840,117,2021,9,Austrian Grand Prix,Canadian,red_bull_ring,stroll,aston_martin,Austria,678,2021-07-04,1998-10-29,0,0,0,0,1,9,13,0.0,14.0,12.0,0.0,Finished,22.7,0,14.0,0,0
+1060,25139,841,51,2021,9,Austrian Grand Prix,Italian,red_bull_ring,giovinazzi,alfa,Austria,678,2021-07-04,1993-12-14,0,0,0,0,1,15,14,0.0,1.0,16.0,0.0,Finished,27.6,0,1.0,0,0
+1060,25140,8,51,2021,9,Austrian Grand Prix,Finnish,red_bull_ring,raikkonen,alfa,Austria,678,2021-07-04,1979-10-17,0,0,0,0,1,16,15,0.0,1.0,15.0,0.0,Finished,41.7,0,1.0,0,0
+1060,25141,849,3,2021,9,Austrian Grand Prix,Canadian,red_bull_ring,latifi,williams,Austria,678,2021-07-04,1995-06-29,0,0,0,0,1,18,16,0.0,0.0,20.0,0.0,Finished,26.0,0,0.0,0,0
+1060,25142,20,117,2021,9,Austrian Grand Prix,German,red_bull_ring,vettel,aston_martin,Austria,678,2021-07-04,1987-07-03,0,0,0,0,1,11,17,0.0,30.0,10.0,0.0,Collision,34.0,0,30.0,0,0
+1060,25143,854,210,2021,9,Austrian Grand Prix,German,red_bull_ring,mick_schumacher,haas,Austria,678,2021-07-04,1999-03-22,0,0,0,0,1,19,18,0.0,0.0,18.0,0.0,Finished,22.3,0,0.0,0,0
+1060,25144,853,210,2021,9,Austrian Grand Prix,Russian,red_bull_ring,mazepin,haas,Austria,678,2021-07-04,1999-03-02,0,0,0,0,1,20,19,0.0,0.0,19.0,0.0,Finished,22.3,0,0.0,0,0
+1060,25145,839,214,2021,9,Austrian Grand Prix,French,red_bull_ring,ocon,alpine,Austria,678,2021-07-04,1996-09-17,0,0,0,0,1,17,0,0.0,12.0,13.0,0.0,Collision,24.8,0,12.0,0,0
+1061,25146,1,131,2021,10,British Grand Prix,British,silverstone,hamilton,mercedes,UK,153,2021-07-18,1985-01-07,1,0,0,0,0,2,1,25.0,177.0,2.0,4.0,Finished,36.5,1,152.0,1,0
+1061,25147,844,6,2021,10,British Grand Prix,Monegasque,silverstone,leclerc,ferrari,UK,153,2021-07-18,1997-10-16,1,0,0,0,0,4,2,18.0,80.0,6.0,0.0,Finished,23.8,0,62.0,0,0
+1061,25148,822,131,2021,10,British Grand Prix,Finnish,silverstone,bottas,mercedes,UK,153,2021-07-18,1989-08-28,1,0,0,0,0,3,3,15.0,108.0,4.0,0.0,Finished,31.9,0,93.0,0,0
+1061,25149,846,1,2021,10,British Grand Prix,British,silverstone,norris,mclaren,UK,153,2021-07-18,1999-11-13,1,0,0,0,0,5,4,12.0,113.0,3.0,0.0,Finished,21.7,1,101.0,0,0
+1061,25150,817,1,2021,10,British Grand Prix,Australian,silverstone,ricciardo,mclaren,UK,153,2021-07-18,1989-07-01,1,0,0,0,0,6,5,10.0,50.0,8.0,0.0,Finished,32.0,0,40.0,0,0
+1061,25151,832,6,2021,10,British Grand Prix,Spanish,silverstone,sainz,ferrari,UK,153,2021-07-18,1994-09-01,1,0,0,0,0,10,6,8.0,68.0,7.0,0.0,Finished,26.9,0,60.0,0,0
+1061,25152,4,214,2021,10,British Grand Prix,Spanish,silverstone,alonso,alpine,UK,153,2021-07-18,1981-07-29,1,0,0,0,0,7,7,6.0,26.0,11.0,0.0,Finished,40.0,0,20.0,0,0
+1061,25153,840,117,2021,10,British Grand Prix,Canadian,silverstone,stroll,aston_martin,UK,153,2021-07-18,1998-10-29,1,0,0,0,0,14,8,4.0,18.0,12.0,0.0,Finished,22.7,0,14.0,0,0
+1061,25154,839,214,2021,10,British Grand Prix,French,silverstone,ocon,alpine,UK,153,2021-07-18,1996-09-17,1,0,0,0,0,9,9,2.0,14.0,13.0,0.0,Finished,24.8,0,12.0,0,0
+1061,25155,852,213,2021,10,British Grand Prix,Japanese,silverstone,tsunoda,alphatauri,UK,153,2021-07-18,2000-05-11,1,0,0,0,0,16,10,1.0,10.0,14.0,0.0,Finished,21.2,0,9.0,0,0
+1061,25156,842,213,2021,10,British Grand Prix,French,silverstone,gasly,alphatauri,UK,153,2021-07-18,1996-02-07,1,0,0,0,0,11,11,0.0,39.0,9.0,0.0,Finished,25.4,0,39.0,0,0
+1061,25157,847,3,2021,10,British Grand Prix,British,silverstone,russell,williams,UK,153,2021-07-18,1998-02-15,1,0,0,0,0,12,12,0.0,0.0,17.0,0.0,Finished,23.4,1,0.0,0,0
+1061,25158,841,51,2021,10,British Grand Prix,Italian,silverstone,giovinazzi,alfa,UK,153,2021-07-18,1993-12-14,1,0,0,0,0,15,13,0.0,1.0,16.0,0.0,Finished,27.6,0,1.0,0,0
+1061,25159,849,3,2021,10,British Grand Prix,Canadian,silverstone,latifi,williams,UK,153,2021-07-18,1995-06-29,1,0,0,0,0,17,14,0.0,0.0,19.0,0.0,Finished,26.1,0,0.0,0,0
+1061,25160,8,51,2021,10,British Grand Prix,Finnish,silverstone,raikkonen,alfa,UK,153,2021-07-18,1979-10-17,1,0,0,0,0,13,15,0.0,1.0,15.0,0.0,Finished,41.8,0,1.0,0,0
+1061,25161,815,9,2021,10,British Grand Prix,Mexican,silverstone,perez,red_bull,UK,153,2021-07-18,1990-01-26,1,0,0,0,0,0,16,0.0,104.0,5.0,1.0,Finished,31.5,0,104.0,0,0
+1061,25162,853,210,2021,10,British Grand Prix,Russian,silverstone,mazepin,haas,UK,153,2021-07-18,1999-03-02,1,0,0,0,0,19,17,0.0,0.0,20.0,0.0,Finished,22.4,0,0.0,0,0
+1061,25163,854,210,2021,10,British Grand Prix,German,silverstone,mick_schumacher,haas,UK,153,2021-07-18,1999-03-22,1,0,0,0,0,18,18,0.0,0.0,18.0,0.0,Finished,22.3,0,0.0,0,0
+1061,25164,20,117,2021,10,British Grand Prix,German,silverstone,vettel,aston_martin,UK,153,2021-07-18,1987-07-03,1,0,0,0,0,8,0,0.0,30.0,10.0,0.0,Retired,34.0,0,30.0,0,0
+1061,25165,830,9,2021,10,British Grand Prix,Dutch,silverstone,max_verstappen,red_bull,UK,153,2021-07-18,1997-09-30,1,0,0,0,0,1,0,0.0,185.0,1.0,5.0,Collision,23.8,0,185.0,0,1
+1062,25166,839,214,2021,11,Hungarian Grand Prix,French,hungaroring,ocon,alpine,Hungary,264,2021-08-01,1996-09-17,1,0,0,1,0,8,1,25.0,39.0,10.0,1.0,Finished,24.9,0,14.0,1,0
+1062,25167,1,131,2021,11,Hungarian Grand Prix,British,hungaroring,hamilton,mercedes,Hungary,264,2021-08-01,1985-01-07,1,0,0,1,0,1,2,18.0,195.0,1.0,4.0,Finished,36.6,0,177.0,0,1
+1062,25168,832,6,2021,11,Hungarian Grand Prix,Spanish,hungaroring,sainz,ferrari,Hungary,264,2021-08-01,1994-09-01,1,0,0,1,0,15,3,15.0,83.0,6.0,0.0,Finished,26.9,0,68.0,0,0
+1062,25169,4,214,2021,11,Hungarian Grand Prix,Spanish,hungaroring,alonso,alpine,Hungary,264,2021-08-01,1981-07-29,1,0,0,1,0,9,4,12.0,38.0,11.0,0.0,Finished,40.0,0,26.0,0,0
+1062,25170,842,213,2021,11,Hungarian Grand Prix,French,hungaroring,gasly,alphatauri,Hungary,264,2021-08-01,1996-02-07,1,0,0,1,0,5,5,11.0,50.0,8.0,0.0,Finished,25.5,0,39.0,0,0
+1062,25171,852,213,2021,11,Hungarian Grand Prix,Japanese,hungaroring,tsunoda,alphatauri,Hungary,264,2021-08-01,2000-05-11,1,0,0,1,0,16,6,8.0,18.0,13.0,0.0,Finished,21.2,0,10.0,0,0
+1062,25172,849,3,2021,11,Hungarian Grand Prix,Canadian,hungaroring,latifi,williams,Hungary,264,2021-08-01,1995-06-29,1,0,0,1,0,18,7,6.0,6.0,15.0,0.0,Finished,26.1,0,0.0,0,0
+1062,25173,847,3,2021,11,Hungarian Grand Prix,British,hungaroring,russell,williams,Hungary,264,2021-08-01,1998-02-15,1,0,0,1,0,17,8,4.0,4.0,16.0,0.0,Finished,23.5,0,0.0,0,0
+1062,25174,830,9,2021,11,Hungarian Grand Prix,Dutch,hungaroring,max_verstappen,red_bull,Hungary,264,2021-08-01,1997-09-30,1,0,0,1,0,3,9,2.0,187.0,2.0,5.0,Finished,23.8,0,185.0,0,0
+1062,25175,8,51,2021,11,Hungarian Grand Prix,Finnish,hungaroring,raikkonen,alfa,Hungary,264,2021-08-01,1979-10-17,1,0,0,1,0,13,10,1.0,2.0,17.0,0.0,Finished,41.8,0,1.0,0,0
+1062,25176,817,1,2021,11,Hungarian Grand Prix,Australian,hungaroring,ricciardo,mclaren,Hungary,264,2021-08-01,1989-07-01,1,0,0,1,0,11,11,0.0,50.0,9.0,0.0,Finished,32.1,0,50.0,0,0
+1062,25177,854,210,2021,11,Hungarian Grand Prix,German,hungaroring,mick_schumacher,haas,Hungary,264,2021-08-01,1999-03-22,1,0,0,1,0,20,12,0.0,0.0,19.0,0.0,Finished,22.4,0,0.0,0,0
+1062,25178,841,51,2021,11,Hungarian Grand Prix,Italian,hungaroring,giovinazzi,alfa,Hungary,264,2021-08-01,1993-12-14,1,0,0,1,0,0,13,0.0,1.0,18.0,0.0,Finished,27.6,0,1.0,0,0
+1062,25179,853,210,2021,11,Hungarian Grand Prix,Russian,hungaroring,mazepin,haas,Hungary,264,2021-08-01,1999-03-02,1,0,0,1,0,19,0,0.0,0.0,20.0,0.0,Collision,22.4,0,0.0,0,0
+1062,25180,846,1,2021,11,Hungarian Grand Prix,British,hungaroring,norris,mclaren,Hungary,264,2021-08-01,1999-11-13,1,0,0,1,0,6,0,0.0,113.0,3.0,0.0,Collision,21.7,0,113.0,0,0
+1062,25181,822,131,2021,11,Hungarian Grand Prix,Finnish,hungaroring,bottas,mercedes,Hungary,264,2021-08-01,1989-08-28,1,0,0,1,0,2,0,0.0,108.0,4.0,0.0,Collision,31.9,0,108.0,0,0
+1062,25182,815,9,2021,11,Hungarian Grand Prix,Mexican,hungaroring,perez,red_bull,Hungary,264,2021-08-01,1990-01-26,1,0,0,1,0,4,0,0.0,104.0,5.0,1.0,Collision,31.5,0,104.0,0,0
+1062,25183,844,6,2021,11,Hungarian Grand Prix,Monegasque,hungaroring,leclerc,ferrari,Hungary,264,2021-08-01,1997-10-16,1,0,0,1,0,7,0,0.0,80.0,7.0,0.0,Collision,23.8,0,80.0,0,0
+1062,25184,840,117,2021,11,Hungarian Grand Prix,Canadian,hungaroring,stroll,aston_martin,Hungary,264,2021-08-01,1998-10-29,1,0,0,1,0,12,0,0.0,18.0,14.0,0.0,Collision,22.8,0,18.0,0,0
+1062,25185,20,117,2021,11,Hungarian Grand Prix,German,hungaroring,vettel,aston_martin,Hungary,264,2021-08-01,1987-07-03,1,0,0,1,0,10,0,0.0,30.0,12.0,0.0,Disqualified,34.1,0,30.0,0,0
+1063,25186,830,9,2021,12,Belgian Grand Prix,Dutch,spa,max_verstappen,red_bull,Belgium,401,2021-08-29,1997-09-30,0,0,0,1,0,1,1,12.5,199.5,2.0,6.0,Finished,23.9,0,187.0,1,0
+1063,25187,847,3,2021,12,Belgian Grand Prix,British,spa,russell,williams,Belgium,401,2021-08-29,1998-02-15,0,0,0,1,0,2,2,9.0,13.0,15.0,0.0,Finished,23.5,0,4.0,0,0
+1063,25188,1,131,2021,12,Belgian Grand Prix,British,spa,hamilton,mercedes,Belgium,401,2021-08-29,1985-01-07,0,0,0,1,0,3,3,7.5,202.5,1.0,4.0,Finished,36.6,0,195.0,0,0
+1063,25189,817,1,2021,12,Belgian Grand Prix,Australian,spa,ricciardo,mclaren,Belgium,401,2021-08-29,1989-07-01,0,0,0,1,0,4,4,6.0,56.0,8.0,0.0,Finished,32.2,0,50.0,0,0
+1063,25190,20,117,2021,12,Belgian Grand Prix,German,spa,vettel,aston_martin,Belgium,401,2021-08-29,1987-07-03,0,0,0,1,0,5,5,5.0,35.0,12.0,0.0,Finished,34.2,0,30.0,0,0
+1063,25191,842,213,2021,12,Belgian Grand Prix,French,spa,gasly,alphatauri,Belgium,401,2021-08-29,1996-02-07,0,0,0,1,0,6,6,4.0,54.0,9.0,0.0,Finished,25.6,0,50.0,0,0
+1063,25192,839,214,2021,12,Belgian Grand Prix,French,spa,ocon,alpine,Belgium,401,2021-08-29,1996-09-17,0,0,0,1,0,8,7,3.0,42.0,10.0,1.0,Finished,24.9,0,39.0,0,0
+1063,25193,844,6,2021,12,Belgian Grand Prix,Monegasque,spa,leclerc,ferrari,Belgium,401,2021-08-29,1997-10-16,0,0,0,1,0,9,8,2.0,82.0,7.0,0.0,Finished,23.9,0,80.0,0,0
+1063,25194,849,3,2021,12,Belgian Grand Prix,Canadian,spa,latifi,williams,Belgium,401,2021-08-29,1995-06-29,0,0,0,1,0,10,9,1.0,7.0,16.0,0.0,Finished,26.2,0,6.0,0,0
+1063,25195,832,6,2021,12,Belgian Grand Prix,Spanish,spa,sainz,ferrari,Belgium,401,2021-08-29,1994-09-01,0,0,0,1,0,11,10,0.5,83.5,6.0,0.0,Finished,27.0,0,83.0,0,0
+1063,25196,4,214,2021,12,Belgian Grand Prix,Spanish,spa,alonso,alpine,Belgium,401,2021-08-29,1981-07-29,0,0,0,1,0,12,11,0.0,38.0,11.0,0.0,Finished,40.1,0,38.0,0,0
+1063,25197,822,131,2021,12,Belgian Grand Prix,Finnish,spa,bottas,mercedes,Belgium,401,2021-08-29,1989-08-28,0,0,0,1,0,13,12,0.0,108.0,4.0,0.0,Finished,32.0,0,108.0,0,0
+1063,25198,841,51,2021,12,Belgian Grand Prix,Italian,spa,giovinazzi,alfa,Belgium,401,2021-08-29,1993-12-14,0,0,0,1,0,14,13,0.0,1.0,18.0,0.0,Finished,27.7,0,1.0,0,0
+1063,25199,846,1,2021,12,Belgian Grand Prix,British,spa,norris,mclaren,Belgium,401,2021-08-29,1999-11-13,0,0,0,1,0,15,14,0.0,113.0,3.0,0.0,Finished,21.8,0,113.0,0,0
+1063,25200,852,213,2021,12,Belgian Grand Prix,Japanese,spa,tsunoda,alphatauri,Belgium,401,2021-08-29,2000-05-11,0,0,0,1,0,16,15,0.0,18.0,13.0,0.0,Finished,21.3,0,18.0,0,0
+1063,25201,854,210,2021,12,Belgian Grand Prix,German,spa,mick_schumacher,haas,Belgium,401,2021-08-29,1999-03-22,0,0,0,1,0,17,16,0.0,0.0,19.0,0.0,Finished,22.4,0,0.0,0,0
+1063,25202,853,210,2021,12,Belgian Grand Prix,Russian,spa,mazepin,haas,Belgium,401,2021-08-29,1999-03-02,0,0,0,1,0,18,17,0.0,0.0,20.0,0.0,Finished,22.5,0,0.0,0,0
+1063,25203,8,51,2021,12,Belgian Grand Prix,Finnish,spa,raikkonen,alfa,Belgium,401,2021-08-29,1979-10-17,0,0,0,1,0,0,18,0.0,2.0,17.0,0.0,Finished,41.9,0,2.0,0,0
+1063,25204,815,9,2021,12,Belgian Grand Prix,Mexican,spa,perez,red_bull,Belgium,401,2021-08-29,1990-01-26,0,0,0,1,0,0,19,0.0,104.0,5.0,1.0,Finished,31.6,0,104.0,0,0
+1063,25205,840,117,2021,12,Belgian Grand Prix,Canadian,spa,stroll,aston_martin,Belgium,401,2021-08-29,1998-10-29,0,0,0,1,0,19,20,0.0,18.0,14.0,0.0,Finished,22.8,0,18.0,0,0
+1064,25206,830,9,2021,13,Dutch Grand Prix,Dutch,zandvoort,max_verstappen,red_bull,Netherlands,6,2021-09-05,1997-09-30,1,0,0,0,0,1,1,25.0,224.5,1.0,7.0,Finished,23.9,1,199.5,1,1
+1064,25207,1,131,2021,13,Dutch Grand Prix,British,zandvoort,hamilton,mercedes,Netherlands,6,2021-09-05,1985-01-07,1,0,0,0,0,2,2,19.0,221.5,2.0,4.0,Finished,36.7,0,202.5,0,0
+1064,25208,822,131,2021,13,Dutch Grand Prix,Finnish,zandvoort,bottas,mercedes,Netherlands,6,2021-09-05,1989-08-28,1,0,0,0,0,3,3,15.0,123.0,3.0,0.0,Finished,32.0,0,108.0,0,0
+1064,25209,842,213,2021,13,Dutch Grand Prix,French,zandvoort,gasly,alphatauri,Netherlands,6,2021-09-05,1996-02-07,1,0,0,0,0,4,4,12.0,66.0,8.0,0.0,Finished,25.6,0,54.0,0,0
+1064,25210,844,6,2021,13,Dutch Grand Prix,Monegasque,zandvoort,leclerc,ferrari,Netherlands,6,2021-09-05,1997-10-16,1,0,0,0,0,5,5,10.0,92.0,6.0,0.0,Finished,23.9,0,82.0,0,0
+1064,25211,4,214,2021,13,Dutch Grand Prix,Spanish,zandvoort,alonso,alpine,Netherlands,6,2021-09-05,1981-07-29,1,0,0,0,0,9,6,8.0,46.0,10.0,0.0,Finished,40.1,0,38.0,0,0
+1064,25212,832,6,2021,13,Dutch Grand Prix,Spanish,zandvoort,sainz,ferrari,Netherlands,6,2021-09-05,1994-09-01,1,0,0,0,0,6,7,6.0,89.5,7.0,0.0,Finished,27.0,0,83.5,0,0
+1064,25213,815,9,2021,13,Dutch Grand Prix,Mexican,zandvoort,perez,red_bull,Netherlands,6,2021-09-05,1990-01-26,1,0,0,0,0,0,8,4.0,108.0,5.0,1.0,Finished,31.6,0,104.0,0,0
+1064,25214,839,214,2021,13,Dutch Grand Prix,French,zandvoort,ocon,alpine,Netherlands,6,2021-09-05,1996-09-17,1,0,0,0,0,8,9,2.0,44.0,11.0,1.0,Finished,25.0,0,42.0,0,0
+1064,25215,846,1,2021,13,Dutch Grand Prix,British,zandvoort,norris,mclaren,Netherlands,6,2021-09-05,1999-11-13,1,0,0,0,0,13,10,1.0,114.0,4.0,0.0,Finished,21.8,0,113.0,0,0
+1064,25216,817,1,2021,13,Dutch Grand Prix,Australian,zandvoort,ricciardo,mclaren,Netherlands,6,2021-09-05,1989-07-01,1,0,0,0,0,10,11,0.0,56.0,9.0,0.0,Finished,32.2,0,56.0,0,0
+1064,25217,840,117,2021,13,Dutch Grand Prix,Canadian,zandvoort,stroll,aston_martin,Netherlands,6,2021-09-05,1998-10-29,1,0,0,0,0,12,12,0.0,18.0,14.0,0.0,Finished,22.9,0,18.0,0,0
+1064,25218,20,117,2021,13,Dutch Grand Prix,German,zandvoort,vettel,aston_martin,Netherlands,6,2021-09-05,1987-07-03,1,0,0,0,0,15,13,0.0,35.0,12.0,0.0,Finished,34.2,0,35.0,0,0
+1064,25219,841,51,2021,13,Dutch Grand Prix,Italian,zandvoort,giovinazzi,alfa,Netherlands,6,2021-09-05,1993-12-14,1,0,0,0,0,7,14,0.0,1.0,18.0,0.0,Finished,27.7,0,1.0,0,0
+1064,25220,9,51,2021,13,Dutch Grand Prix,Polish,zandvoort,kubica,alfa,Netherlands,6,2021-09-05,1984-12-07,1,0,0,0,0,16,15,0.0,0.0,21.0,0.0,Finished,36.7,0,0.0,0,0
+1064,25221,849,3,2021,13,Dutch Grand Prix,Canadian,zandvoort,latifi,williams,Netherlands,6,2021-09-05,1995-06-29,1,0,0,0,0,0,16,0.0,7.0,16.0,0.0,Finished,26.2,0,7.0,0,0
+1064,25222,847,3,2021,13,Dutch Grand Prix,British,zandvoort,russell,williams,Netherlands,6,2021-09-05,1998-02-15,1,0,0,0,0,11,17,0.0,13.0,15.0,0.0,Gearbox,23.6,0,13.0,0,0
+1064,25223,854,210,2021,13,Dutch Grand Prix,German,zandvoort,mick_schumacher,haas,Netherlands,6,2021-09-05,1999-03-22,1,0,0,0,0,17,18,0.0,0.0,19.0,0.0,Finished,22.5,0,0.0,0,0
+1064,25224,852,213,2021,13,Dutch Grand Prix,Japanese,zandvoort,tsunoda,alphatauri,Netherlands,6,2021-09-05,2000-05-11,1,0,0,0,0,14,0,0.0,18.0,13.0,0.0,Power Unit,21.3,0,18.0,0,0
+1064,25225,853,210,2021,13,Dutch Grand Prix,Russian,zandvoort,mazepin,haas,Netherlands,6,2021-09-05,1999-03-02,1,0,0,0,0,18,0,0.0,0.0,20.0,0.0,Hydraulics,22.5,0,0.0,0,0
+1065,25226,817,1,2021,14,Italian Grand Prix,Australian,monza,ricciardo,mclaren,Italy,162,2021-09-12,1989-07-01,1,0,0,0,0,2,1,26.0,83.0,8.0,1.0,Finished,32.2,0,57.0,1,0
+1065,25227,846,1,2021,14,Italian Grand Prix,British,monza,norris,mclaren,Italy,162,2021-09-12,1999-11-13,1,0,0,0,0,3,2,18.0,132.0,4.0,0.0,Finished,21.8,0,114.0,0,0
+1065,25228,822,131,2021,14,Italian Grand Prix,Finnish,monza,bottas,mercedes,Italy,162,2021-09-12,1989-08-28,1,0,0,0,0,19,3,15.0,141.0,3.0,0.0,Finished,32.0,0,126.0,0,0
+1065,25229,844,6,2021,14,Italian Grand Prix,Monegasque,monza,leclerc,ferrari,Italy,162,2021-09-12,1997-10-16,1,0,0,0,0,5,4,12.0,104.0,6.0,0.0,Finished,23.9,0,92.0,0,0
+1065,25230,815,9,2021,14,Italian Grand Prix,Mexican,monza,perez,red_bull,Italy,162,2021-09-12,1990-01-26,1,0,0,0,0,8,5,10.0,118.0,5.0,1.0,Finished,31.6,0,108.0,0,0
+1065,25231,832,6,2021,14,Italian Grand Prix,Spanish,monza,sainz,ferrari,Italy,162,2021-09-12,1994-09-01,1,0,0,0,0,6,6,8.0,97.5,7.0,0.0,Finished,27.0,0,89.5,0,0
+1065,25232,840,117,2021,14,Italian Grand Prix,Canadian,monza,stroll,aston_martin,Italy,162,2021-09-12,1998-10-29,1,0,0,0,0,9,7,6.0,24.0,13.0,0.0,Finished,22.9,0,18.0,0,0
+1065,25233,4,214,2021,14,Italian Grand Prix,Spanish,monza,alonso,alpine,Italy,162,2021-09-12,1981-07-29,1,0,0,0,0,10,8,4.0,50.0,10.0,0.0,Finished,40.1,0,46.0,0,0
+1065,25234,847,3,2021,14,Italian Grand Prix,British,monza,russell,williams,Italy,162,2021-09-12,1998-02-15,1,0,0,0,0,14,9,2.0,15.0,15.0,0.0,Finished,23.6,0,13.0,0,0
+1065,25235,839,214,2021,14,Italian Grand Prix,French,monza,ocon,alpine,Italy,162,2021-09-12,1996-09-17,1,0,0,0,0,12,10,1.0,45.0,11.0,1.0,Finished,25.0,0,44.0,0,0
+1065,25236,849,3,2021,14,Italian Grand Prix,Canadian,monza,latifi,williams,Italy,162,2021-09-12,1995-06-29,1,0,0,0,0,13,11,0.0,7.0,16.0,0.0,Finished,26.2,0,7.0,0,0
+1065,25237,20,117,2021,14,Italian Grand Prix,German,monza,vettel,aston_martin,Italy,162,2021-09-12,1987-07-03,1,0,0,0,0,11,12,0.0,35.0,12.0,0.0,Finished,34.2,0,35.0,0,0
+1065,25238,841,51,2021,14,Italian Grand Prix,Italian,monza,giovinazzi,alfa,Italy,162,2021-09-12,1993-12-14,1,0,0,0,0,7,13,0.0,1.0,18.0,0.0,Finished,27.7,1,1.0,0,0
+1065,25239,9,51,2021,14,Italian Grand Prix,Polish,monza,kubica,alfa,Italy,162,2021-09-12,1984-12-07,1,0,0,0,0,17,14,0.0,0.0,20.0,0.0,Finished,36.8,0,0.0,0,0
+1065,25240,854,210,2021,14,Italian Grand Prix,German,monza,mick_schumacher,haas,Italy,162,2021-09-12,1999-03-22,1,0,0,0,0,18,15,0.0,0.0,19.0,0.0,Finished,22.5,0,0.0,0,0
+1065,25241,853,210,2021,14,Italian Grand Prix,Russian,monza,mazepin,haas,Italy,162,2021-09-12,1999-03-02,1,0,0,0,0,16,0,0.0,0.0,21.0,0.0,Power Unit,22.5,0,0.0,0,0
+1065,25242,1,131,2021,14,Italian Grand Prix,British,monza,hamilton,mercedes,Italy,162,2021-09-12,1985-01-07,1,0,0,0,0,4,0,0.0,221.5,2.0,4.0,Collision,36.7,0,221.5,0,0
+1065,25243,830,9,2021,14,Italian Grand Prix,Dutch,monza,max_verstappen,red_bull,Italy,162,2021-09-12,1997-09-30,1,0,0,0,0,1,0,0.0,226.5,1.0,7.0,Collision,24.0,0,226.5,0,1
+1065,25244,842,213,2021,14,Italian Grand Prix,French,monza,gasly,alphatauri,Italy,162,2021-09-12,1996-02-07,1,0,0,0,0,0,0,0.0,66.0,9.0,0.0,Suspension,25.6,0,66.0,0,0
+1065,25245,852,213,2021,14,Italian Grand Prix,Japanese,monza,tsunoda,alphatauri,Italy,162,2021-09-12,2000-05-11,1,0,0,0,0,0,0,0.0,18.0,14.0,0.0,Brakes,21.3,0,18.0,0,0
+1066,25246,1,131,2021,15,Russian Grand Prix,British,sochi,hamilton,mercedes,Russia,2,2021-09-26,1985-01-07,0,0,0,1,1,4,1,25.0,246.5,1.0,5.0,Finished,36.7,0,221.5,1,0
+1066,25247,830,9,2021,15,Russian Grand Prix,Dutch,sochi,max_verstappen,red_bull,Russia,2,2021-09-26,1997-09-30,0,0,0,1,1,20,2,18.0,244.5,2.0,7.0,Finished,24.0,0,226.5,0,0
+1066,25248,832,6,2021,15,Russian Grand Prix,Spanish,sochi,sainz,ferrari,Russia,2,2021-09-26,1994-09-01,0,0,0,1,1,2,3,15.0,112.5,6.0,0.0,Finished,27.1,0,97.5,0,0
+1066,25249,817,1,2021,15,Russian Grand Prix,Australian,sochi,ricciardo,mclaren,Russia,2,2021-09-26,1989-07-01,0,0,0,1,1,5,4,12.0,95.0,8.0,1.0,Finished,32.2,0,83.0,0,0
+1066,25250,822,131,2021,15,Russian Grand Prix,Finnish,sochi,bottas,mercedes,Russia,2,2021-09-26,1989-08-28,0,0,0,1,1,16,5,10.0,151.0,3.0,0.0,Finished,32.1,0,141.0,0,0
+1066,25251,4,214,2021,15,Russian Grand Prix,Spanish,sochi,alonso,alpine,Russia,2,2021-09-26,1981-07-29,0,0,0,1,1,6,6,8.0,58.0,10.0,0.0,Finished,40.2,0,50.0,0,0
+1066,25252,846,1,2021,15,Russian Grand Prix,British,sochi,norris,mclaren,Russia,2,2021-09-26,1999-11-13,0,0,0,1,1,1,7,7.0,139.0,4.0,0.0,Finished,21.9,0,132.0,0,0
+1066,25253,8,51,2021,15,Russian Grand Prix,Finnish,sochi,raikkonen,alfa,Russia,2,2021-09-26,1979-10-17,0,0,0,1,1,13,8,4.0,6.0,17.0,0.0,Finished,41.9,0,2.0,0,0
+1066,25254,815,9,2021,15,Russian Grand Prix,Mexican,sochi,perez,red_bull,Russia,2,2021-09-26,1990-01-26,0,0,0,1,1,8,9,2.0,120.0,5.0,1.0,Finished,31.7,0,118.0,0,0
+1066,25255,847,3,2021,15,Russian Grand Prix,British,sochi,russell,williams,Russia,2,2021-09-26,1998-02-15,0,0,0,1,1,3,10,1.0,16.0,15.0,0.0,Finished,23.6,0,15.0,0,0
+1066,25256,840,117,2021,15,Russian Grand Prix,Canadian,sochi,stroll,aston_martin,Russia,2,2021-09-26,1998-10-29,0,0,0,1,1,7,11,0.0,24.0,13.0,0.0,Finished,22.9,0,24.0,0,0
+1066,25257,20,117,2021,15,Russian Grand Prix,German,sochi,vettel,aston_martin,Russia,2,2021-09-26,1987-07-03,0,0,0,1,1,10,12,0.0,35.0,12.0,0.0,Finished,34.2,0,35.0,0,0
+1066,25258,842,213,2021,15,Russian Grand Prix,French,sochi,gasly,alphatauri,Russia,2,2021-09-26,1996-02-07,0,0,0,1,1,11,13,0.0,66.0,9.0,0.0,Finished,25.6,0,66.0,0,0
+1066,25259,839,214,2021,15,Russian Grand Prix,French,sochi,ocon,alpine,Russia,2,2021-09-26,1996-09-17,0,0,0,1,1,9,14,0.0,45.0,11.0,1.0,Finished,25.0,0,45.0,0,0
+1066,25260,844,6,2021,15,Russian Grand Prix,Monegasque,sochi,leclerc,ferrari,Russia,2,2021-09-26,1997-10-16,0,0,0,1,1,19,15,0.0,104.0,7.0,0.0,Finished,23.9,0,104.0,0,0
+1066,25261,841,51,2021,15,Russian Grand Prix,Italian,sochi,giovinazzi,alfa,Russia,2,2021-09-26,1993-12-14,0,0,0,1,1,17,16,0.0,1.0,18.0,0.0,Finished,27.8,0,1.0,0,0
+1066,25262,852,213,2021,15,Russian Grand Prix,Japanese,sochi,tsunoda,alphatauri,Russia,2,2021-09-26,2000-05-11,0,0,0,1,1,12,17,0.0,18.0,14.0,0.0,Finished,21.4,0,18.0,0,0
+1066,25263,853,210,2021,15,Russian Grand Prix,Russian,sochi,mazepin,haas,Russia,2,2021-09-26,1999-03-02,0,0,0,1,1,15,18,0.0,0.0,21.0,0.0,Finished,22.6,1,0.0,0,0
+1066,25264,849,3,2021,15,Russian Grand Prix,Canadian,sochi,latifi,williams,Russia,2,2021-09-26,1995-06-29,0,0,0,1,1,18,19,0.0,7.0,16.0,0.0,Accident,26.2,0,7.0,0,0
+1066,25265,854,210,2021,15,Russian Grand Prix,German,sochi,mick_schumacher,haas,Russia,2,2021-09-26,1999-03-22,0,0,0,1,1,14,0,0.0,0.0,19.0,0.0,Oil leak,22.5,0,0.0,0,0
+1067,25266,822,131,2021,16,Turkish Grand Prix,Finnish,istanbul,bottas,mercedes,Turkey,130,2021-10-10,1989-08-28,0,0,0,1,1,1,1,26.0,177.0,3.0,1.0,Finished,32.1,0,151.0,1,0
+1067,25267,830,9,2021,16,Turkish Grand Prix,Dutch,istanbul,max_verstappen,red_bull,Turkey,130,2021-10-10,1997-09-30,0,0,0,1,1,2,2,18.0,262.5,1.0,7.0,Finished,24.0,0,244.5,0,1
+1067,25268,815,9,2021,16,Turkish Grand Prix,Mexican,istanbul,perez,red_bull,Turkey,130,2021-10-10,1990-01-26,0,0,0,1,1,6,3,15.0,135.0,5.0,1.0,Finished,31.7,0,120.0,0,0
+1067,25269,844,6,2021,16,Turkish Grand Prix,Monegasque,istanbul,leclerc,ferrari,Turkey,130,2021-10-10,1997-10-16,0,0,0,1,1,3,4,12.0,116.0,7.0,0.0,Finished,24.0,0,104.0,0,0
+1067,25270,1,131,2021,16,Turkish Grand Prix,British,istanbul,hamilton,mercedes,Turkey,130,2021-10-10,1985-01-07,0,0,0,1,1,11,5,10.0,256.5,2.0,5.0,Finished,36.8,0,246.5,0,0
+1067,25271,842,213,2021,16,Turkish Grand Prix,French,istanbul,gasly,alphatauri,Turkey,130,2021-10-10,1996-02-07,0,0,0,1,1,4,6,8.0,74.0,9.0,0.0,Finished,25.7,0,66.0,0,0
+1067,25272,846,1,2021,16,Turkish Grand Prix,British,istanbul,norris,mclaren,Turkey,130,2021-10-10,1999-11-13,0,0,0,1,1,7,7,6.0,145.0,4.0,0.0,Finished,21.9,0,139.0,0,0
+1067,25273,832,6,2021,16,Turkish Grand Prix,Spanish,istanbul,sainz,ferrari,Turkey,130,2021-10-10,1994-09-01,0,0,0,1,1,19,8,4.0,116.5,6.0,0.0,Finished,27.1,0,112.5,0,0
+1067,25274,840,117,2021,16,Turkish Grand Prix,Canadian,istanbul,stroll,aston_martin,Turkey,130,2021-10-10,1998-10-29,0,0,0,1,1,8,9,2.0,26.0,13.0,0.0,Finished,22.9,0,24.0,0,0
+1067,25275,839,214,2021,16,Turkish Grand Prix,French,istanbul,ocon,alpine,Turkey,130,2021-10-10,1996-09-17,0,0,0,1,1,12,10,1.0,46.0,11.0,1.0,Finished,25.1,0,45.0,0,0
+1067,25276,841,51,2021,16,Turkish Grand Prix,Italian,istanbul,giovinazzi,alfa,Turkey,130,2021-10-10,1993-12-14,0,0,0,1,1,16,11,0.0,1.0,18.0,0.0,Finished,27.8,0,1.0,0,0
+1067,25277,8,51,2021,16,Turkish Grand Prix,Finnish,istanbul,raikkonen,alfa,Turkey,130,2021-10-10,1979-10-17,0,0,0,1,1,17,12,0.0,6.0,17.0,0.0,Finished,42.0,0,6.0,0,0
+1067,25278,817,1,2021,16,Turkish Grand Prix,Australian,istanbul,ricciardo,mclaren,Turkey,130,2021-10-10,1989-07-01,0,0,0,1,1,20,13,0.0,95.0,8.0,1.0,Finished,32.3,0,95.0,0,0
+1067,25279,852,213,2021,16,Turkish Grand Prix,Japanese,istanbul,tsunoda,alphatauri,Turkey,130,2021-10-10,2000-05-11,0,0,0,1,1,9,14,0.0,18.0,14.0,0.0,Finished,21.4,0,18.0,0,0
+1067,25280,847,3,2021,16,Turkish Grand Prix,British,istanbul,russell,williams,Turkey,130,2021-10-10,1998-02-15,0,0,0,1,1,13,15,0.0,16.0,15.0,0.0,Finished,23.6,0,16.0,0,0
+1067,25281,4,214,2021,16,Turkish Grand Prix,Spanish,istanbul,alonso,alpine,Turkey,130,2021-10-10,1981-07-29,0,0,0,1,1,5,16,0.0,58.0,10.0,0.0,Finished,40.2,0,58.0,0,0
+1067,25282,849,3,2021,16,Turkish Grand Prix,Canadian,istanbul,latifi,williams,Turkey,130,2021-10-10,1995-06-29,0,0,0,1,1,15,17,0.0,7.0,16.0,0.0,Finished,26.3,0,7.0,0,0
+1067,25283,20,117,2021,16,Turkish Grand Prix,German,istanbul,vettel,aston_martin,Turkey,130,2021-10-10,1987-07-03,0,0,0,1,1,10,18,0.0,35.0,12.0,0.0,Finished,34.3,0,35.0,0,0
+1067,25284,854,210,2021,16,Turkish Grand Prix,German,istanbul,mick_schumacher,haas,Turkey,130,2021-10-10,1999-03-22,0,0,0,1,1,14,19,0.0,0.0,19.0,0.0,Finished,22.6,0,0.0,0,0
+1067,25285,853,210,2021,16,Turkish Grand Prix,Russian,istanbul,mazepin,haas,Turkey,130,2021-10-10,1999-03-02,0,0,0,1,1,18,20,0.0,0.0,21.0,0.0,Finished,22.6,0,0.0,0,0
+1069,25286,830,9,2021,17,United States Grand Prix,Dutch,americas,max_verstappen,red_bull,USA,161,2021-10-24,1997-09-30,1,0,0,0,0,1,1,25.0,287.5,1.0,8.0,Finished,24.1,0,262.5,1,1
+1069,25287,1,131,2021,17,United States Grand Prix,British,americas,hamilton,mercedes,USA,161,2021-10-24,1985-01-07,1,0,0,0,0,2,2,19.0,275.5,2.0,5.0,Finished,36.8,0,256.5,0,0
+1069,25288,815,9,2021,17,United States Grand Prix,Mexican,americas,perez,red_bull,USA,161,2021-10-24,1990-01-26,1,0,0,0,0,3,3,15.0,150.0,4.0,1.0,Finished,31.7,0,135.0,0,0
+1069,25289,844,6,2021,17,United States Grand Prix,Monegasque,americas,leclerc,ferrari,USA,161,2021-10-24,1997-10-16,1,0,0,0,0,4,4,12.0,128.0,6.0,0.0,Finished,24.0,0,116.0,0,0
+1069,25290,817,1,2021,17,United States Grand Prix,Australian,americas,ricciardo,mclaren,USA,161,2021-10-24,1989-07-01,1,0,0,0,0,6,5,10.0,105.0,8.0,1.0,Finished,32.3,0,95.0,0,0
+1069,25291,822,131,2021,17,United States Grand Prix,Finnish,americas,bottas,mercedes,USA,161,2021-10-24,1989-08-28,1,0,0,0,0,9,6,8.0,185.0,3.0,1.0,Finished,32.2,0,177.0,0,0
+1069,25292,832,6,2021,17,United States Grand Prix,Spanish,americas,sainz,ferrari,USA,161,2021-10-24,1994-09-01,1,0,0,0,0,5,7,6.0,122.5,7.0,0.0,Finished,27.1,0,116.5,0,0
+1069,25293,846,1,2021,17,United States Grand Prix,British,americas,norris,mclaren,USA,161,2021-10-24,1999-11-13,1,0,0,0,0,7,8,4.0,149.0,5.0,0.0,Finished,21.9,0,145.0,0,0
+1069,25294,852,213,2021,17,United States Grand Prix,Japanese,americas,tsunoda,alphatauri,USA,161,2021-10-24,2000-05-11,1,0,0,0,0,10,9,2.0,20.0,14.0,0.0,Finished,21.5,0,18.0,0,0
+1069,25295,20,117,2021,17,United States Grand Prix,German,americas,vettel,aston_martin,USA,161,2021-10-24,1987-07-03,1,0,0,0,0,18,10,1.0,36.0,12.0,0.0,Finished,34.3,0,35.0,0,0
+1069,25296,841,51,2021,17,United States Grand Prix,Italian,americas,giovinazzi,alfa,USA,161,2021-10-24,1993-12-14,1,0,0,0,0,12,11,0.0,1.0,18.0,0.0,Finished,27.9,0,1.0,0,0
+1069,25297,840,117,2021,17,United States Grand Prix,Canadian,americas,stroll,aston_martin,USA,161,2021-10-24,1998-10-29,1,0,0,0,0,13,12,0.0,26.0,13.0,0.0,Finished,23.0,0,26.0,0,0
+1069,25298,8,51,2021,17,United States Grand Prix,Finnish,americas,raikkonen,alfa,USA,161,2021-10-24,1979-10-17,1,0,0,0,0,15,13,0.0,6.0,17.0,0.0,Finished,42.0,0,6.0,0,0
+1069,25299,847,3,2021,17,United States Grand Prix,British,americas,russell,williams,USA,161,2021-10-24,1998-02-15,1,0,0,0,0,20,14,0.0,16.0,15.0,0.0,Finished,23.7,0,16.0,0,0
+1069,25300,849,3,2021,17,United States Grand Prix,Canadian,americas,latifi,williams,USA,161,2021-10-24,1995-06-29,1,0,0,0,0,14,15,0.0,7.0,16.0,0.0,Finished,26.3,0,7.0,0,0
+1069,25301,854,210,2021,17,United States Grand Prix,German,americas,mick_schumacher,haas,USA,161,2021-10-24,1999-03-22,1,0,0,0,0,16,16,0.0,0.0,19.0,0.0,Finished,22.6,0,0.0,0,0
+1069,25302,853,210,2021,17,United States Grand Prix,Russian,americas,mazepin,haas,USA,161,2021-10-24,1999-03-02,1,0,0,0,0,17,17,0.0,0.0,21.0,0.0,Finished,22.6,0,0.0,0,0
+1069,25303,4,214,2021,17,United States Grand Prix,Spanish,americas,alonso,alpine,USA,161,2021-10-24,1981-07-29,1,0,0,0,0,19,0,0.0,58.0,10.0,0.0,Rear wing,40.2,0,58.0,0,0
+1069,25304,839,214,2021,17,United States Grand Prix,French,americas,ocon,alpine,USA,161,2021-10-24,1996-09-17,1,0,0,0,0,11,0,0.0,46.0,11.0,1.0,Mechanical,25.1,0,46.0,0,0
+1069,25305,842,213,2021,17,United States Grand Prix,French,americas,gasly,alphatauri,USA,161,2021-10-24,1996-02-07,1,0,0,0,0,8,0,0.0,74.0,9.0,0.0,Suspension,25.7,0,74.0,0,0
+1070,25306,830,9,2021,18,Mexico City Grand Prix,Dutch,rodriguez,max_verstappen,red_bull,Mexico,2227,2021-11-07,1997-09-30,1,0,0,0,0,3,1,25.0,312.5,1.0,9.0,Finished,24.1,0,287.5,1,0
+1070,25307,1,131,2021,18,Mexico City Grand Prix,British,rodriguez,hamilton,mercedes,Mexico,2227,2021-11-07,1985-01-07,1,0,0,0,0,2,2,18.0,293.5,2.0,5.0,Finished,36.8,0,275.5,0,0
+1070,25308,815,9,2021,18,Mexico City Grand Prix,Mexican,rodriguez,perez,red_bull,Mexico,2227,2021-11-07,1990-01-26,1,0,0,0,0,4,3,15.0,165.0,4.0,1.0,Finished,31.8,1,150.0,0,0
+1070,25309,842,213,2021,18,Mexico City Grand Prix,French,rodriguez,gasly,alphatauri,Mexico,2227,2021-11-07,1996-02-07,1,0,0,0,0,5,4,12.0,86.0,9.0,0.0,Finished,25.7,0,74.0,0,0
+1070,25310,844,6,2021,18,Mexico City Grand Prix,Monegasque,rodriguez,leclerc,ferrari,Mexico,2227,2021-11-07,1997-10-16,1,0,0,0,0,8,5,10.0,138.0,6.0,0.0,Finished,24.1,0,128.0,0,0
+1070,25311,832,6,2021,18,Mexico City Grand Prix,Spanish,rodriguez,sainz,ferrari,Mexico,2227,2021-11-07,1994-09-01,1,0,0,0,0,6,6,8.0,130.5,7.0,0.0,Finished,27.2,0,122.5,0,0
+1070,25312,20,117,2021,18,Mexico City Grand Prix,German,rodriguez,vettel,aston_martin,Mexico,2227,2021-11-07,1987-07-03,1,0,0,0,0,9,7,6.0,42.0,12.0,0.0,Finished,34.3,0,36.0,0,0
+1070,25313,8,51,2021,18,Mexico City Grand Prix,Finnish,rodriguez,raikkonen,alfa,Mexico,2227,2021-11-07,1979-10-17,1,0,0,0,0,10,8,4.0,10.0,16.0,0.0,Finished,42.1,0,6.0,0,0
+1070,25314,4,214,2021,18,Mexico City Grand Prix,Spanish,rodriguez,alonso,alpine,Mexico,2227,2021-11-07,1981-07-29,1,0,0,0,0,12,9,2.0,60.0,10.0,0.0,Finished,40.3,0,58.0,0,0
+1070,25315,846,1,2021,18,Mexico City Grand Prix,British,rodriguez,norris,mclaren,Mexico,2227,2021-11-07,1999-11-13,1,0,0,0,0,18,10,1.0,150.0,5.0,0.0,Finished,22.0,0,149.0,0,0
+1070,25316,841,51,2021,18,Mexico City Grand Prix,Italian,rodriguez,giovinazzi,alfa,Mexico,2227,2021-11-07,1993-12-14,1,0,0,0,0,11,11,0.0,1.0,18.0,0.0,Finished,27.9,0,1.0,0,0
+1070,25317,817,1,2021,18,Mexico City Grand Prix,Australian,rodriguez,ricciardo,mclaren,Mexico,2227,2021-11-07,1989-07-01,1,0,0,0,0,7,12,0.0,105.0,8.0,1.0,Finished,32.4,0,105.0,0,0
+1070,25318,839,214,2021,18,Mexico City Grand Prix,French,rodriguez,ocon,alpine,Mexico,2227,2021-11-07,1996-09-17,1,0,0,0,0,19,13,0.0,46.0,11.0,1.0,Finished,25.1,0,46.0,0,0
+1070,25319,840,117,2021,18,Mexico City Grand Prix,Canadian,rodriguez,stroll,aston_martin,Mexico,2227,2021-11-07,1998-10-29,1,0,0,0,0,20,14,0.0,26.0,13.0,0.0,Finished,23.0,0,26.0,0,0
+1070,25320,822,131,2021,18,Mexico City Grand Prix,Finnish,rodriguez,bottas,mercedes,Mexico,2227,2021-11-07,1989-08-28,1,0,0,0,0,1,15,0.0,185.0,3.0,1.0,Finished,32.2,0,185.0,0,0
+1070,25321,847,3,2021,18,Mexico City Grand Prix,British,rodriguez,russell,williams,Mexico,2227,2021-11-07,1998-02-15,1,0,0,0,0,16,16,0.0,16.0,15.0,0.0,Finished,23.7,0,16.0,0,0
+1070,25322,849,3,2021,18,Mexico City Grand Prix,Canadian,rodriguez,latifi,williams,Mexico,2227,2021-11-07,1995-06-29,1,0,0,0,0,13,17,0.0,7.0,17.0,0.0,Finished,26.4,0,7.0,0,0
+1070,25323,853,210,2021,18,Mexico City Grand Prix,Russian,rodriguez,mazepin,haas,Mexico,2227,2021-11-07,1999-03-02,1,0,0,0,0,15,18,0.0,0.0,21.0,0.0,Finished,22.7,0,0.0,0,0
+1070,25324,854,210,2021,18,Mexico City Grand Prix,German,rodriguez,mick_schumacher,haas,Mexico,2227,2021-11-07,1999-03-22,1,0,0,0,0,14,0,0.0,0.0,19.0,0.0,Collision,22.6,0,0.0,0,0
+1070,25325,852,213,2021,18,Mexico City Grand Prix,Japanese,rodriguez,tsunoda,alphatauri,Mexico,2227,2021-11-07,2000-05-11,1,0,0,0,0,17,0,0.0,20.0,14.0,0.0,Collision,21.5,0,20.0,0,0
+1071,25326,1,131,2021,19,São Paulo Grand Prix,British,interlagos,hamilton,mercedes,Brazil,785,2021-11-14,1985-01-07,1,0,0,0,0,10,1,25.0,318.5,2.0,6.0,Finished,36.9,0,293.5,1,0
+1071,25327,830,9,2021,19,São Paulo Grand Prix,Dutch,interlagos,max_verstappen,red_bull,Brazil,785,2021-11-14,1997-09-30,1,0,0,0,0,2,2,18.0,332.5,1.0,9.0,Finished,24.1,0,314.5,0,0
+1071,25328,822,131,2021,19,São Paulo Grand Prix,Finnish,interlagos,bottas,mercedes,Brazil,785,2021-11-14,1989-08-28,1,0,0,0,0,1,3,15.0,203.0,3.0,1.0,Finished,32.2,0,188.0,0,0
+1071,25329,815,9,2021,19,São Paulo Grand Prix,Mexican,interlagos,perez,red_bull,Brazil,785,2021-11-14,1990-01-26,1,0,0,0,0,4,4,13.0,178.0,4.0,1.0,Finished,31.8,0,165.0,0,0
+1071,25330,844,6,2021,19,São Paulo Grand Prix,Monegasque,interlagos,leclerc,ferrari,Brazil,785,2021-11-14,1997-10-16,1,0,0,0,0,6,5,10.0,148.0,6.0,0.0,Finished,24.1,0,138.0,0,0
+1071,25331,832,6,2021,19,São Paulo Grand Prix,Spanish,interlagos,sainz,ferrari,Brazil,785,2021-11-14,1994-09-01,1,0,0,0,0,3,6,8.0,139.5,7.0,0.0,Finished,27.2,0,131.5,0,0
+1071,25332,842,213,2021,19,São Paulo Grand Prix,French,interlagos,gasly,alphatauri,Brazil,785,2021-11-14,1996-02-07,1,0,0,0,0,7,7,6.0,92.0,9.0,0.0,Finished,25.8,0,86.0,0,0
+1071,25333,839,214,2021,19,São Paulo Grand Prix,French,interlagos,ocon,alpine,Brazil,785,2021-11-14,1996-09-17,1,0,0,0,0,8,8,4.0,50.0,11.0,1.0,Finished,25.2,0,46.0,0,0
+1071,25334,4,214,2021,19,São Paulo Grand Prix,Spanish,interlagos,alonso,alpine,Brazil,785,2021-11-14,1981-07-29,1,0,0,0,0,12,9,2.0,62.0,10.0,0.0,Finished,40.3,0,60.0,0,0
+1071,25335,846,1,2021,19,São Paulo Grand Prix,British,interlagos,norris,mclaren,Brazil,785,2021-11-14,1999-11-13,1,0,0,0,0,5,10,1.0,151.0,5.0,0.0,Finished,22.0,0,150.0,0,0
+1071,25336,20,117,2021,19,São Paulo Grand Prix,German,interlagos,vettel,aston_martin,Brazil,785,2021-11-14,1987-07-03,1,0,0,0,0,9,11,0.0,42.0,12.0,0.0,Finished,34.4,0,42.0,0,0
+1071,25337,8,51,2021,19,São Paulo Grand Prix,Finnish,interlagos,raikkonen,alfa,Brazil,785,2021-11-14,1979-10-17,1,0,0,0,0,0,12,0.0,10.0,16.0,0.0,Finished,42.1,0,10.0,0,0
+1071,25338,847,3,2021,19,São Paulo Grand Prix,British,interlagos,russell,williams,Brazil,785,2021-11-14,1998-02-15,1,0,0,0,0,17,13,0.0,16.0,15.0,0.0,Finished,23.7,0,16.0,0,0
+1071,25339,841,51,2021,19,São Paulo Grand Prix,Italian,interlagos,giovinazzi,alfa,Brazil,785,2021-11-14,1993-12-14,1,0,0,0,0,13,14,0.0,1.0,18.0,0.0,Finished,27.9,0,1.0,0,0
+1071,25340,852,213,2021,19,São Paulo Grand Prix,Japanese,interlagos,tsunoda,alphatauri,Brazil,785,2021-11-14,2000-05-11,1,0,0,0,0,15,15,0.0,20.0,14.0,0.0,Finished,21.5,0,20.0,0,0
+1071,25341,849,3,2021,19,São Paulo Grand Prix,Canadian,interlagos,latifi,williams,Brazil,785,2021-11-14,1995-06-29,1,0,0,0,0,16,16,0.0,7.0,17.0,0.0,Finished,26.4,0,7.0,0,0
+1071,25342,853,210,2021,19,São Paulo Grand Prix,Russian,interlagos,mazepin,haas,Brazil,785,2021-11-14,1999-03-02,1,0,0,0,0,19,17,0.0,0.0,21.0,0.0,Finished,22.7,0,0.0,0,0
+1071,25343,854,210,2021,19,São Paulo Grand Prix,German,interlagos,mick_schumacher,haas,Brazil,785,2021-11-14,1999-03-22,1,0,0,0,0,18,18,0.0,0.0,19.0,0.0,Finished,22.7,0,0.0,0,0
+1071,25344,817,1,2021,19,São Paulo Grand Prix,Australian,interlagos,ricciardo,mclaren,Brazil,785,2021-11-14,1989-07-01,1,0,0,0,0,11,0,0.0,105.0,8.0,1.0,Power loss,32.4,0,105.0,0,0
+1071,25345,840,117,2021,19,São Paulo Grand Prix,Canadian,interlagos,stroll,aston_martin,Brazil,785,2021-11-14,1998-10-29,1,0,0,0,0,14,0,0.0,26.0,13.0,0.0,Collision damage,23.0,0,26.0,0,0
+1051,25346,1,131,2021,20,Qatar Grand Prix,British,losail,hamilton,mercedes,Qatar,\N,2021-11-21,1985-01-07,1,0,0,0,0,1,1,25.0,343.5,2.0,7.0,Finished,36.9,0,318.5,1,1
+1051,25347,830,9,2021,20,Qatar Grand Prix,Dutch,losail,max_verstappen,red_bull,Qatar,\N,2021-11-21,1997-09-30,1,0,0,0,0,7,2,19.0,351.5,1.0,9.0,Finished,24.1,0,332.5,0,0
+1051,25348,4,214,2021,20,Qatar Grand Prix,Spanish,losail,alonso,alpine,Qatar,\N,2021-11-21,1981-07-29,1,0,0,0,0,3,3,15.0,77.0,10.0,0.0,Finished,40.3,0,62.0,0,0
+1051,25349,815,9,2021,20,Qatar Grand Prix,Mexican,losail,perez,red_bull,Qatar,\N,2021-11-21,1990-01-26,1,0,0,0,0,11,4,12.0,190.0,4.0,1.0,Finished,31.8,0,178.0,0,0
+1051,25350,839,214,2021,20,Qatar Grand Prix,French,losail,ocon,alpine,Qatar,\N,2021-11-21,1996-09-17,1,0,0,0,0,9,5,10.0,60.0,11.0,1.0,Finished,25.2,0,50.0,0,0
+1051,25351,840,117,2021,20,Qatar Grand Prix,Canadian,losail,stroll,aston_martin,Qatar,\N,2021-11-21,1998-10-29,1,0,0,0,0,12,6,8.0,34.0,13.0,0.0,Finished,23.1,0,26.0,0,0
+1051,25352,832,6,2021,20,Qatar Grand Prix,Spanish,losail,sainz,ferrari,Qatar,\N,2021-11-21,1994-09-01,1,0,0,0,0,5,7,6.0,145.5,7.0,0.0,Finished,27.2,0,139.5,0,0
+1051,25353,844,6,2021,20,Qatar Grand Prix,Monegasque,losail,leclerc,ferrari,Qatar,\N,2021-11-21,1997-10-16,1,0,0,0,0,13,8,4.0,152.0,6.0,0.0,Finished,24.1,0,148.0,0,0
+1051,25354,846,1,2021,20,Qatar Grand Prix,British,losail,norris,mclaren,Qatar,\N,2021-11-21,1999-11-13,1,0,0,0,0,4,9,2.0,153.0,5.0,0.0,Finished,22.0,0,151.0,0,0
+1051,25355,20,117,2021,20,Qatar Grand Prix,German,losail,vettel,aston_martin,Qatar,\N,2021-11-21,1987-07-03,1,0,0,0,0,10,10,1.0,43.0,12.0,0.0,Finished,34.4,0,42.0,0,0
+1051,25356,842,213,2021,20,Qatar Grand Prix,French,losail,gasly,alphatauri,Qatar,\N,2021-11-21,1996-02-07,1,0,0,0,0,2,11,0.0,92.0,9.0,0.0,Finished,25.8,0,92.0,0,0
+1051,25357,817,1,2021,20,Qatar Grand Prix,Australian,losail,ricciardo,mclaren,Qatar,\N,2021-11-21,1989-07-01,1,0,0,0,0,14,12,0.0,105.0,8.0,1.0,Finished,32.4,0,105.0,0,0
+1051,25358,852,213,2021,20,Qatar Grand Prix,Japanese,losail,tsunoda,alphatauri,Qatar,\N,2021-11-21,2000-05-11,1,0,0,0,0,8,13,0.0,20.0,14.0,0.0,Finished,21.5,0,20.0,0,0
+1051,25359,8,51,2021,20,Qatar Grand Prix,Finnish,losail,raikkonen,alfa,Qatar,\N,2021-11-21,1979-10-17,1,0,0,0,0,16,14,0.0,10.0,16.0,0.0,Finished,42.1,0,10.0,0,0
+1051,25360,841,51,2021,20,Qatar Grand Prix,Italian,losail,giovinazzi,alfa,Qatar,\N,2021-11-21,1993-12-14,1,0,0,0,0,18,15,0.0,1.0,18.0,0.0,Finished,27.9,0,1.0,0,0
+1051,25361,854,210,2021,20,Qatar Grand Prix,German,losail,mick_schumacher,haas,Qatar,\N,2021-11-21,1999-03-22,1,0,0,0,0,19,16,0.0,0.0,19.0,0.0,Finished,22.7,0,0.0,0,0
+1051,25362,847,3,2021,20,Qatar Grand Prix,British,losail,russell,williams,Qatar,\N,2021-11-21,1998-02-15,1,0,0,0,0,15,17,0.0,16.0,15.0,0.0,Finished,23.8,0,16.0,0,0
+1051,25363,853,210,2021,20,Qatar Grand Prix,Russian,losail,mazepin,haas,Qatar,\N,2021-11-21,1999-03-02,1,0,0,0,0,20,18,0.0,0.0,21.0,0.0,Finished,22.7,0,0.0,0,0
+1051,25364,849,3,2021,20,Qatar Grand Prix,Canadian,losail,latifi,williams,Qatar,\N,2021-11-21,1995-06-29,1,0,0,0,0,17,0,0.0,7.0,17.0,0.0,Puncture,26.4,0,7.0,0,0
+1051,25365,822,131,2021,20,Qatar Grand Prix,Finnish,losail,bottas,mercedes,Qatar,\N,2021-11-21,1989-08-28,1,0,0,0,0,6,0,0.0,203.0,3.0,1.0,Damage,32.2,0,203.0,0,0
+1072,25366,1,131,2021,21,Saudi Arabian Grand Prix,British,jeddah,hamilton,mercedes,Saudi Arabia,15,2021-12-05,1985-01-07,1,0,0,0,0,1,1,26.0,369.5,2.0,8.0,Finished,36.9,0,343.5,1,1
+1072,25367,830,9,2021,21,Saudi Arabian Grand Prix,Dutch,jeddah,max_verstappen,red_bull,Saudi Arabia,15,2021-12-05,1997-09-30,1,0,0,0,0,3,2,18.0,369.5,1.0,9.0,Finished,24.2,0,351.5,0,0
+1072,25368,822,131,2021,21,Saudi Arabian Grand Prix,Finnish,jeddah,bottas,mercedes,Saudi Arabia,15,2021-12-05,1989-08-28,1,0,0,0,0,2,3,15.0,218.0,3.0,1.0,Finished,32.3,0,203.0,0,0
+1072,25369,839,214,2021,21,Saudi Arabian Grand Prix,French,jeddah,ocon,alpine,Saudi Arabia,15,2021-12-05,1996-09-17,1,0,0,0,0,9,4,12.0,72.0,11.0,1.0,Finished,25.2,0,60.0,0,0
+1072,25370,817,1,2021,21,Saudi Arabian Grand Prix,Australian,jeddah,ricciardo,mclaren,Saudi Arabia,15,2021-12-05,1989-07-01,1,0,0,0,0,11,5,10.0,115.0,8.0,1.0,Finished,32.4,0,105.0,0,0
+1072,25371,842,213,2021,21,Saudi Arabian Grand Prix,French,jeddah,gasly,alphatauri,Saudi Arabia,15,2021-12-05,1996-02-07,1,0,0,0,0,6,6,8.0,100.0,9.0,0.0,Finished,25.8,0,92.0,0,0
+1072,25372,844,6,2021,21,Saudi Arabian Grand Prix,Monegasque,jeddah,leclerc,ferrari,Saudi Arabia,15,2021-12-05,1997-10-16,1,0,0,0,0,4,7,6.0,158.0,5.0,0.0,Finished,24.1,0,152.0,0,0
+1072,25373,832,6,2021,21,Saudi Arabian Grand Prix,Spanish,jeddah,sainz,ferrari,Saudi Arabia,15,2021-12-05,1994-09-01,1,0,0,0,0,15,8,4.0,149.5,7.0,0.0,Finished,27.3,0,145.5,0,0
+1072,25374,841,51,2021,21,Saudi Arabian Grand Prix,Italian,jeddah,giovinazzi,alfa,Saudi Arabia,15,2021-12-05,1993-12-14,1,0,0,0,0,10,9,2.0,3.0,18.0,0.0,Finished,28.0,0,1.0,0,0
+1072,25375,846,1,2021,21,Saudi Arabian Grand Prix,British,jeddah,norris,mclaren,Saudi Arabia,15,2021-12-05,1999-11-13,1,0,0,0,0,7,10,1.0,154.0,6.0,0.0,Finished,22.1,0,153.0,0,0
+1072,25376,840,117,2021,21,Saudi Arabian Grand Prix,Canadian,jeddah,stroll,aston_martin,Saudi Arabia,15,2021-12-05,1998-10-29,1,0,0,0,0,18,11,0.0,34.0,13.0,0.0,Finished,23.1,0,34.0,0,0
+1072,25377,849,3,2021,21,Saudi Arabian Grand Prix,Canadian,jeddah,latifi,williams,Saudi Arabia,15,2021-12-05,1995-06-29,1,0,0,0,0,16,12,0.0,7.0,17.0,0.0,Finished,26.4,0,7.0,0,0
+1072,25378,4,214,2021,21,Saudi Arabian Grand Prix,Spanish,jeddah,alonso,alpine,Saudi Arabia,15,2021-12-05,1981-07-29,1,0,0,0,0,13,13,0.0,77.0,10.0,0.0,Finished,40.4,0,77.0,0,0
+1072,25379,852,213,2021,21,Saudi Arabian Grand Prix,Japanese,jeddah,tsunoda,alphatauri,Saudi Arabia,15,2021-12-05,2000-05-11,1,0,0,0,0,8,14,0.0,20.0,14.0,0.0,Finished,21.6,0,20.0,0,0
+1072,25380,8,51,2021,21,Saudi Arabian Grand Prix,Finnish,jeddah,raikkonen,alfa,Saudi Arabia,15,2021-12-05,1979-10-17,1,0,0,0,0,12,15,0.0,10.0,16.0,0.0,Finished,42.1,0,10.0,0,0
+1072,25381,20,117,2021,21,Saudi Arabian Grand Prix,German,jeddah,vettel,aston_martin,Saudi Arabia,15,2021-12-05,1987-07-03,1,0,0,0,0,17,0,0.0,43.0,12.0,0.0,Collision damage,34.4,0,43.0,0,0
+1072,25382,815,9,2021,21,Saudi Arabian Grand Prix,Mexican,jeddah,perez,red_bull,Saudi Arabia,15,2021-12-05,1990-01-26,1,0,0,0,0,5,0,0.0,190.0,4.0,1.0,Collision,31.9,0,190.0,0,0
+1072,25383,853,210,2021,21,Saudi Arabian Grand Prix,Russian,jeddah,mazepin,haas,Saudi Arabia,15,2021-12-05,1999-03-02,1,0,0,0,0,20,0,0.0,0.0,21.0,0.0,Collision,22.8,0,0.0,0,0
+1072,25384,847,3,2021,21,Saudi Arabian Grand Prix,British,jeddah,russell,williams,Saudi Arabia,15,2021-12-05,1998-02-15,1,0,0,0,0,14,0,0.0,16.0,15.0,0.0,Collision,23.8,0,16.0,0,0
+1072,25385,854,210,2021,21,Saudi Arabian Grand Prix,German,jeddah,mick_schumacher,haas,Saudi Arabia,15,2021-12-05,1999-03-22,1,0,0,0,0,19,0,0.0,0.0,19.0,0.0,Accident,22.7,0,0.0,0,0
+1073,25386,830,9,2021,22,Abu Dhabi Grand Prix,Dutch,yas_marina,max_verstappen,red_bull,UAE,3,2021-12-12,1997-09-30,1,0,0,0,0,1,1,26.0,395.5,1.0,10.0,Finished,24.2,0,369.5,1,1
+1073,25387,1,131,2021,22,Abu Dhabi Grand Prix,British,yas_marina,hamilton,mercedes,UAE,3,2021-12-12,1985-01-07,1,0,0,0,0,2,2,18.0,387.5,2.0,8.0,Finished,36.9,0,369.5,0,0
+1073,25388,832,6,2021,22,Abu Dhabi Grand Prix,Spanish,yas_marina,sainz,ferrari,UAE,3,2021-12-12,1994-09-01,1,0,0,0,0,5,3,15.0,164.5,5.0,0.0,Finished,27.3,0,149.5,0,0
+1073,25389,852,213,2021,22,Abu Dhabi Grand Prix,Japanese,yas_marina,tsunoda,alphatauri,UAE,3,2021-12-12,2000-05-11,1,0,0,0,0,8,4,12.0,32.0,14.0,0.0,Finished,21.6,0,20.0,0,0
+1073,25390,842,213,2021,22,Abu Dhabi Grand Prix,French,yas_marina,gasly,alphatauri,UAE,3,2021-12-12,1996-02-07,1,0,0,0,0,12,5,10.0,110.0,9.0,0.0,Finished,25.8,0,100.0,0,0
+1073,25391,822,131,2021,22,Abu Dhabi Grand Prix,Finnish,yas_marina,bottas,mercedes,UAE,3,2021-12-12,1989-08-28,1,0,0,0,0,6,6,8.0,226.0,3.0,1.0,Finished,32.3,0,218.0,0,0
+1073,25392,846,1,2021,22,Abu Dhabi Grand Prix,British,yas_marina,norris,mclaren,UAE,3,2021-12-12,1999-11-13,1,0,0,0,0,3,7,6.0,160.0,6.0,0.0,Finished,22.1,0,154.0,0,0
+1073,25393,4,214,2021,22,Abu Dhabi Grand Prix,Spanish,yas_marina,alonso,alpine,UAE,3,2021-12-12,1981-07-29,1,0,0,0,0,11,8,4.0,81.0,10.0,0.0,Finished,40.4,0,77.0,0,0
+1073,25394,839,214,2021,22,Abu Dhabi Grand Prix,French,yas_marina,ocon,alpine,UAE,3,2021-12-12,1996-09-17,1,0,0,0,0,9,9,2.0,74.0,11.0,1.0,Finished,25.2,0,72.0,0,0
+1073,25395,844,6,2021,22,Abu Dhabi Grand Prix,Monegasque,yas_marina,leclerc,ferrari,UAE,3,2021-12-12,1997-10-16,1,0,0,0,0,7,10,1.0,159.0,7.0,0.0,Finished,24.2,0,158.0,0,0
+1073,25396,20,117,2021,22,Abu Dhabi Grand Prix,German,yas_marina,vettel,aston_martin,UAE,3,2021-12-12,1987-07-03,1,0,0,0,0,15,11,0.0,43.0,12.0,0.0,Finished,34.4,0,43.0,0,0
+1073,25397,817,1,2021,22,Abu Dhabi Grand Prix,Australian,yas_marina,ricciardo,mclaren,UAE,3,2021-12-12,1989-07-01,1,0,0,0,0,10,12,0.0,115.0,8.0,1.0,Finished,32.4,0,115.0,0,0
+1073,25398,840,117,2021,22,Abu Dhabi Grand Prix,Canadian,yas_marina,stroll,aston_martin,UAE,3,2021-12-12,1998-10-29,1,0,0,0,0,13,13,0.0,34.0,13.0,0.0,Finished,23.1,0,34.0,0,0
+1073,25399,854,210,2021,22,Abu Dhabi Grand Prix,German,yas_marina,mick_schumacher,haas,UAE,3,2021-12-12,1999-03-22,1,0,0,0,0,19,14,0.0,0.0,19.0,0.0,Finished,22.7,0,0.0,0,0
+1073,25400,815,9,2021,22,Abu Dhabi Grand Prix,Mexican,yas_marina,perez,red_bull,UAE,3,2021-12-12,1990-01-26,1,0,0,0,0,4,15,0.0,190.0,4.0,1.0,Engine,31.9,0,190.0,0,0
+1073,25401,849,3,2021,22,Abu Dhabi Grand Prix,Canadian,yas_marina,latifi,williams,UAE,3,2021-12-12,1995-06-29,1,0,0,0,0,16,0,0.0,7.0,17.0,0.0,Accident,26.5,0,7.0,0,0
+1073,25402,841,51,2021,22,Abu Dhabi Grand Prix,Italian,yas_marina,giovinazzi,alfa,UAE,3,2021-12-12,1993-12-14,1,0,0,0,0,14,0,0.0,3.0,18.0,0.0,Gearbox,28.0,0,3.0,0,0
+1073,25403,847,3,2021,22,Abu Dhabi Grand Prix,British,yas_marina,russell,williams,UAE,3,2021-12-12,1998-02-15,1,0,0,0,0,17,0,0.0,16.0,15.0,0.0,Gearbox,23.8,0,16.0,0,0
+1073,25404,8,51,2021,22,Abu Dhabi Grand Prix,Finnish,yas_marina,raikkonen,alfa,UAE,3,2021-12-12,1979-10-17,1,0,0,0,0,18,0,0.0,10.0,16.0,0.0,Brakes,42.2,0,10.0,0,0
+1073,25405,853,210,2021,22,Abu Dhabi Grand Prix,Russian,yas_marina,mazepin,haas,UAE,3,2021-12-12,1999-03-02,1,0,0,0,0,20,0,0.0,0.0,21.0,0.0,Illness,22.8,0,0.0,0,0

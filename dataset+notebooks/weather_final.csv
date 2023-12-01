@@ -1,0 +1,412 @@
+raceId,year,round,circuitId,name,weather,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy
+1,2009,1,1,Australian Grand Prix,Sunny with temperatures reaching up to 27 °C (81 °F)[2],1,0,0,0,0
+2,2009,2,2,Malaysian Grand Prix,"Dry start, with heavy rain and thunderstorm/monsoonlater",0,0,1,1,0
+3,2009,3,17,Chinese Grand Prix,Rain,0,0,0,1,0
+4,2009,4,3,Bahrain Grand Prix,Sunny,1,0,0,0,0
+5,2009,5,4,Spanish Grand Prix,"Warm, Sunny",1,0,0,0,0
+6,2009,6,6,Monaco Grand Prix,Sunny,1,0,0,0,0
+7,2009,7,5,Turkish Grand Prix,Sunny,1,0,0,0,0
+8,2009,8,9,British Grand Prix,"Dry, overcast",0,0,1,0,1
+9,2009,9,20,German Grand Prix,Sunny and overcast,1,0,0,0,1
+10,2009,10,11,Hungarian Grand Prix,Sunny25 °C (77 °F)[3],1,0,0,0,0
+11,2009,11,12,European Grand Prix,Hot and dry with temperatures reaching up to 33 °C (91 °F)[1],1,0,1,0,0
+12,2009,12,13,Belgian Grand Prix,Clear but Mild,1,0,0,0,0
+13,2009,13,14,Italian Grand Prix,Mainly sunny,1,0,0,0,0
+14,2009,14,15,Singapore Grand Prix,Hot and Dry,1,0,1,0,0
+15,2009,15,22,Japanese Grand Prix,"Sunny, Dry",1,0,1,0,0
+16,2009,16,18,Brazilian Grand Prix,Partially cloudy and dry,0,0,1,0,1
+17,2009,17,24,Abu Dhabi Grand Prix,Dry,0,0,1,0,0
+18,2008,1,1,Australian Grand Prix,"Clear, dry, air temperature of 39 °C (102 °F).",1,0,1,0,0
+19,2008,2,2,Malaysian Grand Prix,"Sunny, partly cloudy",1,0,0,0,1
+20,2008,3,3,Bahrain Grand Prix,Dry,0,0,1,0,0
+21,2008,4,4,Spanish Grand Prix,Sunny,1,0,0,0,0
+22,2008,5,5,Turkish Grand Prix,Sunny with temperatures reaching up to 17 °C (63 °F)[3],1,0,0,0,0
+23,2008,6,6,Monaco Grand Prix,"Wet, drying later.",0,0,1,1,0
+24,2008,7,7,Canadian Grand Prix,Hot with temperatures approaching 31 °C (88 °F); wind speeds up to 8.9 kilometres per hour (5.5 mph)[1],1,0,0,0,0
+25,2008,8,8,French Grand Prix,Dry at first; light rain in the final stages,0,0,1,1,0
+26,2008,9,9,British Grand Prix,"Rain, later drying",0,0,1,1,0
+27,2008,10,10,German Grand Prix,"Cloudy, later sunny[1]",1,0,0,0,1
+28,2008,11,11,Hungarian Grand Prix,"Sunny; Air 30–31 °C (86–88 °F), Track 40–43 °C (104–109 °F)",1,0,0,0,0
+29,2008,12,12,European Grand Prix,Sunny,1,0,0,0,0
+30,2008,13,13,Belgian Grand Prix,"Cloudy, rain in last 3 laps",0,0,0,1,1
+31,2008,14,14,Italian Grand Prix,"Heavy rain, dry towards the end",0,0,1,1,0
+32,2008,15,15,Singapore Grand Prix,"Dry, Air Temp: 28 °C (82 °F), Wind Speed: 2.2 metres per second (7.2 ft/s), Humidity: 79%",0,0,1,0,0
+33,2008,16,16,Japanese Grand Prix,Cloudy with temperatures reaching up to 17 °C (63 °F)[4],0,0,0,0,1
+34,2008,17,17,Chinese Grand Prix,Dry,0,0,1,0,0
+35,2008,18,18,Brazilian Grand Prix,"Rain at beginning and end, otherwise drying",0,0,1,1,0
+36,2007,1,1,Australian Grand Prix,Clear with temperatures reaching up to 21 °C (70 °F)[1],1,0,0,0,0
+37,2007,2,2,Malaysian Grand Prix,Sunny[1],1,0,0,0,0
+38,2007,3,3,Bahrain Grand Prix,"Sunny, dry, windy",1,0,1,0,0
+39,2007,4,4,Spanish Grand Prix,Sunny and warm,1,0,0,0,0
+40,2007,5,6,Monaco Grand Prix,"Cloudy, air temp 24–27 °C (75–81 °F), track temp 33–42 °C (91–108 °F)",0,0,0,0,1
+41,2007,6,7,Canadian Grand Prix,Warm with temperatures approaching 26 °C (79 °F); wind speeds up to 5.8 kilometres per hour (3.6 mph)[1],1,0,0,0,0
+42,2007,7,19,United States Grand Prix,Warm (33C/91F) and clear,1,0,0,0,0
+43,2007,8,8,French Grand Prix,Cloudy,0,0,0,0,1
+44,2007,9,9,British Grand Prix,Dry and sunny,1,0,1,0,0
+45,2007,10,20,European Grand Prix,Heavy Rain on Lap 1. Drying track at restart. Light Rain before the finish.,0,0,1,1,0
+46,2007,11,11,Hungarian Grand Prix,"Sunny, temperatures reaching up to 27 °C (81 °F)[4]",1,0,0,0,0
+47,2007,12,5,Turkish Grand Prix,Sunny,1,0,0,0,0
+48,2007,13,14,Italian Grand Prix,Sunny,1,0,0,0,0
+49,2007,14,13,Belgian Grand Prix,"Partly cloudy, mild and dry",1,0,1,0,1
+50,2007,15,16,Japanese Grand Prix,Very heavy rain,0,0,0,1,0
+51,2007,16,17,Chinese Grand Prix,Intermittent light rain,0,0,0,1,0
+52,2007,17,18,Brazilian Grand Prix,"37 °C (Air), 63 °C (Track)",0,0,0,0,0
+53,2006,1,3,Bahrain Grand Prix,"Fine, Dry and HotAir Temp 23 °C (73 °F)[1]Track Temp 40 °C (104 °F)[1]dropping to34 °C (93 °F)",1,0,1,0,0
+54,2006,2,2,Malaysian Grand Prix,"Fine, Air Temp: 33°C, Wind Speed: 1.5 m/s, Humidity: 61%",1,0,0,0,0
+55,2006,3,1,Australian Grand Prix,Cloudy with sunny breaks. Air temperature 20°C,1,0,0,0,1
+56,2006,4,21,San Marino Grand Prix,Sunny,1,0,0,0,0
+57,2006,5,20,European Grand Prix,not found,1,0,1,0,0
+58,2006,6,4,Spanish Grand Prix,Sunny,1,0,0,0,0
+59,2006,7,6,Monaco Grand Prix,Fine,1,0,0,0,0
+60,2006,8,9,British Grand Prix,Sunny,1,0,0,0,0
+61,2006,9,7,Canadian Grand Prix,Sunny and warm with temperatures reaching up to 28 °C (82 °F); wind speeds up to 4.1 kilometres per hour (2.5 mph)[1],1,0,0,0,0
+62,2006,10,19,United States Grand Prix,"Sunny, hot",1,0,0,0,0
+63,2006,11,8,French Grand Prix,"Sunny, warm",1,0,0,0,0
+64,2006,12,10,German Grand Prix,"Sunny, warm",1,0,0,0,0
+65,2006,13,11,Hungarian Grand Prix,Cool and rainy with temperatures reaching up to 20 °C (68 °F)[4],0,1,0,1,0
+66,2006,14,5,Turkish Grand Prix,"Sunny, hot",1,0,0,0,0
+67,2006,15,14,Italian Grand Prix,Warm and sunny with temperatures reaching up to 27 °C (81 °F)[1],1,0,0,0,0
+68,2006,16,17,Chinese Grand Prix,"Cloudy, wet track that progressively dried up.Rainy during the last few laps.",0,0,0,1,1
+69,2006,17,22,Japanese Grand Prix,Fine,1,0,0,0,0
+70,2006,18,18,Brazilian Grand Prix,Temperatures reaching up to 23 °C (73 °F)[1],0,0,0,0,0
+71,2005,1,1,Australian Grand Prix,"Cool, partly cloudy",0,1,0,0,1
+72,2005,2,2,Malaysian Grand Prix,"Fine, Air: 34–36°C (93–97°F) and Track: 44–50°C (111–122°F)",1,0,0,0,0
+73,2005,3,3,Bahrain Grand Prix,"Sunny, 42 °C (108 °F)[1]",1,0,0,0,0
+74,2005,4,21,San Marino Grand Prix,Warm and cloudy,1,0,0,0,1
+75,2005,5,4,Spanish Grand Prix,"Sunny, warm",1,0,0,0,0
+76,2005,6,6,Monaco Grand Prix,Fine,1,0,0,0,0
+77,2005,7,20,European Grand Prix,"Partly cloudy, hot and dry",1,0,1,0,1
+78,2005,8,7,Canadian Grand Prix,Cloudy and hot with temperatures approaching 32.5 °C (90.5 °F)Wind speeds up to 5.1 km/h (3.2 mph)[1]Track 43–47 °C (109–117 °F),1,0,0,0,1
+79,2005,9,19,United States Grand Prix,"Cloudy, temperatures up to 25.0 °C (77.0 °F); wind speeds up to 17.9 km/h (11.1 mph)[4]",0,0,0,0,1
+80,2005,10,8,French Grand Prix,"Sunny, Air: 32 °C (90 °F), Track 53 °C (127 °F)",1,0,0,0,0
+81,2005,11,9,British Grand Prix,"Sunny, Air: 27 °C (81 °F), Track 47 °C (117 °F)",1,0,0,0,0
+82,2005,12,10,German Grand Prix,"Cloudy with drizzle, but staying dry during the race. Air temp: 24°C.",0,0,1,0,1
+83,2005,13,11,Hungarian Grand Prix,"Sunny, Air: 34 °C (93 °F), Track 45 °C (113 °F)",1,0,0,0,0
+84,2005,14,5,Turkish Grand Prix,Sunny; 30°C Air; 45°C Track,1,0,0,0,0
+85,2005,15,14,Italian Grand Prix,Sunny,1,0,0,0,0
+86,2005,16,13,Belgian Grand Prix,Wet and dry,0,0,1,1,0
+87,2005,17,18,Brazilian Grand Prix,"Cloudy, dry, Air: 23 °C (73 °F), Track 22 °C (72 °F)",0,0,1,0,1
+88,2005,18,22,Japanese Grand Prix,Partially cloudy and dry with temperatures reaching up to 25 °C (77 °F)[2],0,0,1,0,1
+89,2005,19,17,Chinese Grand Prix,Sunny,1,0,0,0,0
+90,2004,1,1,Australian Grand Prix,Dry and cloudyAir temperature 20 °C (68 °F),0,0,1,0,1
+91,2004,2,2,Malaysian Grand Prix,"Dry, light rain at the startAir Temp 34 °C (93 °F)",0,0,1,1,0
+92,2004,3,3,Bahrain Grand Prix,"Warm, dry and overcast",1,0,1,0,1
+93,2004,4,21,San Marino Grand Prix,"Clear, air temp: 22°C",1,0,0,0,0
+94,2004,5,4,Spanish Grand Prix,Clear,1,0,0,0,0
+95,2004,6,6,Monaco Grand Prix,Dry and sunny,1,0,1,0,0
+96,2004,7,20,European Grand Prix,"Cloudy at start, sunny later",1,0,0,0,1
+97,2004,8,7,Canadian Grand Prix,Clear and mild with temperatures approaching 25.0 °C (77.0 °F)Wind speeds up to 5.8 km/h (3.6 mph)[1]Track 35 °C (95 °F)[2],1,0,0,0,0
+98,2004,9,19,United States Grand Prix,Fine with temperatures reaching up to 24 °C (75 °F);Wind speeds up to 20.55 km/h (12.77 mph)[2],1,0,0,0,0
+99,2004,10,8,French Grand Prix,Sunny,1,0,0,0,0
+100,2004,11,9,British Grand Prix,"Cloudy, Air: 17 °C (63 °F), Track 27 °C (81 °F)[2]",0,0,0,0,1
+101,2004,12,10,German Grand Prix,Sunny,1,0,0,0,0
+102,2004,13,11,Hungarian Grand Prix,"Warm, dry and sunny, Air: 26 °C (79 °F), Track 42 °C (108 °F)",1,0,1,0,0
+103,2004,14,13,Belgian Grand Prix,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0
+104,2004,15,14,Italian Grand Prix,"Wet track at the start, dry later on",0,0,1,1,0
+105,2004,16,17,Chinese Grand Prix,Sunny with temperatures reaching up to 27 °C (81 °F)[1],1,0,0,0,0
+106,2004,17,22,Japanese Grand Prix,Sunny,1,0,0,0,0
+107,2004,18,18,Brazilian Grand Prix,Dry/Wet,0,0,1,1,0
+108,2003,1,1,Australian Grand Prix,"Damp at beginning, dry later, cloudy, mild",1,0,1,1,1
+109,2003,2,2,Malaysian Grand Prix,"Fine, air temperature 34°C (93°F)",1,0,0,0,0
+110,2003,3,18,Brazilian Grand Prix,Rainy: 20 °C (68 °F),0,0,0,1,0
+111,2003,4,21,San Marino Grand Prix,Mostly cloudy with maximum ambient temperatures reaching 13 degrees during the day.,0,0,0,0,1
+112,2003,5,4,Spanish Grand Prix,Clear,1,0,0,0,0
+113,2003,6,70,Austrian Grand Prix,Mostly cloudy with isolated showers in the area,0,0,0,1,1
+114,2003,7,6,Monaco Grand Prix,"Sunny at start, cloudy later",1,0,0,0,1
+115,2003,8,7,Canadian Grand Prix,Partly cloudy and mild with temperatures reaching a maximum of 19.3 °C (66.7 °F)Wind speeds up to 12.9 km/h (8.0 mph)[1]Track 32 °C (90 °F)[2],1,0,0,0,1
+116,2003,9,20,European Grand Prix,Mostly cloudy with maximum ambient temperatures reaching 25 degrees celsius during the day.,0,0,0,0,1
+117,2003,10,8,French Grand Prix,"Cloudy, Air: 26 °C (79 °F), Track 35 °C (95 °F)",0,0,0,0,1
+118,2003,11,9,British Grand Prix,"Sunny at start, cloudy later, Air: 24 °C (75 °F), Track 29 °C (84 °F)[1]",1,0,0,0,1
+119,2003,12,10,German Grand Prix,Fine,1,0,0,0,0
+120,2003,13,11,Hungarian Grand Prix,"Warm, dry and sunny, 28 °C (82 °F)",1,0,1,0,0
+121,2003,14,14,Italian Grand Prix,Sunny,1,0,0,0,0
+122,2003,15,19,United States Grand Prix,Scattered showers with temperatures up to 20.6 °C (69.1 °F);Wind speeds up to 25.93 km/h (16.11 mph)[2],0,0,0,1,0
+123,2003,16,22,Japanese Grand Prix,"Cloudy, Air: 22 °C (72 °F), Track 25 °C (77 °F)",0,0,0,0,1
+124,2002,1,1,Australian Grand Prix,"Cloudy at start, clearing to sunny skies.",1,0,0,0,1
+125,2002,2,2,Malaysian Grand Prix,"Partially cloudy, hot, and dry",1,0,1,0,1
+126,2002,3,18,Brazilian Grand Prix,"Clear, Air Temp: 30°C",1,0,0,0,0
+127,2002,4,21,San Marino Grand Prix,"Scattered thunderstorms, but remaining dry. Air Temp: 18°C",0,0,1,1,0
+128,2002,5,4,Spanish Grand Prix,"Clear, Air Temp: 20°C",1,0,0,0,0
+129,2002,6,70,Austrian Grand Prix,"Clear, Air Temp: 20°C",1,0,0,0,0
+130,2002,7,6,Monaco Grand Prix,Fine; air temperature 22 °C (72 °F),1,0,0,0,0
+131,2002,8,7,Canadian Grand Prix,Mostly fine and humid with temperatures reaching a maximum of 24.1 °C (75.4 °F)Wind speeds up to 8 km/h (5.0 mph)[1],1,0,0,0,0
+132,2002,9,20,European Grand Prix,"Mainly Fine, Air Temp: 18°C",1,0,0,0,0
+133,2002,10,9,British Grand Prix,"Dry/Wet, Air Temp: 21°C",0,0,1,1,0
+134,2002,11,8,French Grand Prix,"Warm and sunny, Air Temp: 25°C",1,0,0,0,0
+135,2002,12,10,German Grand Prix,"Fine, Air Temp: 28°C",1,0,0,0,0
+136,2002,13,11,Hungarian Grand Prix,"Partially cloudy, hot and sunny, Air Temp: 28 °C (82 °F)[4]",1,0,0,0,1
+137,2002,14,13,Belgian Grand Prix,"Cloudy, Air: 17 °C (63 °F), Track 25 °C (77 °F)[1]",0,0,0,0,1
+138,2002,15,14,Italian Grand Prix,"Sunny, hot, dry 23°C",1,0,1,0,0
+139,2002,16,19,United States Grand Prix,Sunny with temperatures reaching up to 26.7 °C (80.1 °F);Wind speeds approaching a maximum of 18.70 km/h (11.62 mph)[2]Track 34 °C (93 °F),1,0,0,0,0
+140,2002,17,22,Japanese Grand Prix,"Sunny, Air: 26 °C (79 °F), Track 30 °C (86 °F)",1,0,0,0,0
+141,2001,1,1,Australian Grand Prix,"Cloudy, sunny later",1,0,0,0,1
+142,2001,2,2,Malaysian Grand Prix,"Rain and Thunderstorms at start, dry later; Air Temp at start: 32 °C (90 °F)",0,0,1,1,0
+143,2001,3,18,Brazilian Grand Prix,"Dry first, rain and thunderstorms later; Air temp: 25–30 °C (77–86 °F)[1]Track 27–40 °C (81–104 °F)",0,0,1,1,0
+144,2001,4,21,San Marino Grand Prix,"Sunny. Air Temp: 14 °C (57 °F), Track 26 °C (79 °F)",1,0,0,0,0
+145,2001,5,4,Spanish Grand Prix,"Overcast, Mild, Dry, Air Temp: 18°C",1,0,1,0,1
+146,2001,6,70,Austrian Grand Prix,"Sunny, Air: 18 to 19 °C (64 to 66 °F), Track 18 to 32 °C (64 to 90 °F)",1,0,0,0,0
+147,2001,7,6,Monaco Grand Prix,"Warm and Sunny, Air Temp: 23 °C (73 °F), Track 36 to 39 °C (97 to 102 °F)",1,0,0,0,0
+148,2001,8,7,Canadian Grand Prix,Sunny,1,0,0,0,0
+149,2001,9,20,European Grand Prix,"Sunny, mild, dry, Air Temp: 21°C",1,0,1,0,0
+150,2001,10,8,French Grand Prix,Sunny,1,0,0,0,0
+151,2001,11,9,British Grand Prix,"Partially cloudy, mild, dry, Air Temp: 16 °C (61 °F), Track 27 °C (81 °F)",1,0,1,0,1
+152,2001,12,10,German Grand Prix,"Partially cloudy, very hot, dry",1,0,1,0,1
+153,2001,13,11,Hungarian Grand Prix,"Hot, dry and partially cloudy",1,0,1,0,1
+154,2001,14,13,Belgian Grand Prix,"Overcast, mild, dry, Air Temp: 12 to 16 °C (54 to 61 °F)",1,0,1,0,1
+155,2001,15,14,Italian Grand Prix,"Sunny, partly cloudy, Air: 19 to 20 °C (66 to 68 °F), Track 26 °C (79 °F)",1,0,0,0,1
+156,2001,16,19,United States Grand Prix,"Sunny, cool, Air: 19–21 °C (66–70 °F);Track 27 °C (81 °F)",1,1,0,0,0
+157,2001,17,22,Japanese Grand Prix,"Cloudy, mild, dry, air temp: 24°C",1,0,1,0,1
+158,2000,1,1,Australian Grand Prix,"Sunny,[2]Air Temp: 20 °C",1,0,0,0,0
+159,2000,2,18,Brazilian Grand Prix,"Sunny, Air: 22 °C (72 °F), Track: 35 °C (95 °F)",1,0,0,0,0
+160,2000,3,21,San Marino Grand Prix,"Overcast, mild, dry; 16 °C (61 °F)",1,0,1,0,1
+161,2000,4,9,British Grand Prix,"Sunny, mild, dry, Air Temp: 10 °C (50 °F)",1,0,1,0,0
+162,2000,5,4,Spanish Grand Prix,"Sunny, Mild, Dry",1,0,1,0,0
+163,2000,6,20,European Grand Prix,"Dry at first, rain later on, Air: 11 °C (52 °F), Track: 12 °C (54 °F)",0,0,1,1,0
+164,2000,7,6,Monaco Grand Prix,Sunny,1,0,0,0,0
+165,2000,8,7,Canadian Grand Prix,"Cloudy and raining; Air 17 °C (63 °F),Track 21 °C (70 °F)",0,0,0,1,1
+166,2000,9,8,French Grand Prix,"Sunny, dry, Air Temp: 27°C",1,0,1,0,0
+167,2000,10,70,Austrian Grand Prix,"Partially cloudy, dry",0,0,1,0,1
+168,2000,11,10,German Grand Prix,Dry/Wet,0,0,1,1,0
+169,2000,12,11,Hungarian Grand Prix,"Partially cloudy, very hot, dry",1,0,1,0,1
+170,2000,13,13,Belgian Grand Prix,"Wet at start, drying, Air & track temperature; 15 °C (59 °F)",0,0,1,1,0
+171,2000,14,14,Italian Grand Prix,Sunny with temperatures reaching up to 29 °C (84 °F)[4],1,0,0,0,0
+172,2000,15,19,United States Grand Prix,"Cloudy, drying, Air 12 °C (54 °F);Track 14 °C (57 °F)",0,0,1,0,1
+173,2000,16,22,Japanese Grand Prix,Dry/wet,0,0,1,1,0
+174,2000,17,2,Malaysian Grand Prix,"Overcast, Very hot, Dry",1,0,1,0,1
+337,2010,1,3,Bahrain Grand Prix,Sunny,1,0,0,0,0
+338,2010,2,1,Australian Grand Prix,Overcast with light rain at start,0,0,0,1,1
+339,2010,3,2,Malaysian Grand Prix,"Mainly cloudy, dry",0,0,1,0,1
+340,2010,4,17,Chinese Grand Prix,"Cloudy, rain",0,0,0,1,1
+341,2010,5,4,Spanish Grand Prix,"Mainly cloudy, dry",0,0,1,0,1
+342,2010,6,6,Monaco Grand Prix,"Mainly cloudy, dry",0,0,1,0,1
+343,2010,7,5,Turkish Grand Prix,Air: 28 to 29 °C (82 to 84 °F) Track: 39 to 49 °C (102 to 120 °F),0,0,0,0,0
+344,2010,8,7,Canadian Grand Prix,Warm with temperatures approaching 26 °C (79 °F); wind speeds up to 4.9 kilometres per hour (3.0 mph)[1],1,0,0,0,0
+345,2010,9,12,European Grand Prix,Dry[3],0,0,1,0,0
+346,2010,10,9,British Grand Prix,Mainly sunny,1,0,0,0,0
+347,2010,11,10,German Grand Prix,"Mainly cloudy, dry[4]",0,0,1,0,1
+348,2010,12,11,Hungarian Grand Prix,Mainly sunny28 °C (82 °F)[1],1,0,0,0,0
+349,2010,13,13,Belgian Grand Prix,Intermittent rain,0,0,0,1,0
+350,2010,14,14,Italian Grand Prix,Sunny,1,0,0,0,0
+351,2010,15,15,Singapore Grand Prix,"Clear; Air temp 29 to 30 °C (84 to 86 °F), Track temp 31 °C (88 °F)[5][6]",1,0,0,0,0
+352,2010,16,22,Japanese Grand Prix,Sunny,1,0,0,0,0
+353,2010,17,35,Korean Grand Prix,"Rain. Air 20 °C (68 °F), Track 18 °C (64 °F)",0,0,0,1,0
+354,2010,18,18,Brazilian Grand Prix,Clear; 25 °C (77 °F),1,0,0,0,0
+355,2010,19,24,Abu Dhabi Grand Prix,Dry[3]Air Temp 28 °C (82 °F)[3]Track Temp 33 °C (91 °F) dropping to 29 °C (84 °F)[3],0,0,1,0,0
+841,2011,1,1,Australian Grand Prix,"Sunny, 18°C",1,0,0,0,0
+842,2011,2,2,Malaysian Grand Prix,"Cloudy, dry",0,0,1,0,1
+843,2011,3,17,Chinese Grand Prix,Fine and Dry[1]Air Temp 22 °C (72 °F)[1]Track Temp 32 °C (90 °F) dropping to 26 °C (79 °F)[1],1,0,1,0,0
+844,2011,4,5,Turkish Grand Prix,"Sunny, Fine and Dry[2]Air Temp 17 °C (63 °F)[2]Track Temp 35 °C (95 °F) dropping to 30 °C (86 °F)[2]",1,0,1,0,0
+845,2011,5,4,Spanish Grand Prix,"Mainly sunny, Fine and Dry[3][4]Air Temp 27 °C (81 °F)[4]Track Temp 33 °C (91 °F) to 44 °C (111 °F)[4]",1,0,1,0,0
+846,2011,6,6,Monaco Grand Prix,"Sunny, Fine and Dry[2]Air Temp 24 °C (75 °F)[2]Track Temp 44 °C (111 °F)[2]",1,0,1,0,0
+847,2011,7,7,Canadian Grand Prix,"Wet at start, very heavy rain later, after rain stops, track drying towards the end. Temperatures up to 27 °C (81 °F); wind speeds up to 12 kilometres per hour (7.5 mph)[2]",0,0,1,1,0
+848,2011,8,12,European Grand Prix,"Clear, Fine and Dry[1][2]Air Temp 27 °C (81 °F)[2]Track Temp 47 °C (117 °F)[2]",1,0,1,0,0
+849,2011,9,9,British Grand Prix,Wet track at start; subsequently drying.[1]Air Temp 20 °C (68 °F)[1]Track Temp 22 °C (72 °F)[1],0,0,1,1,0
+850,2011,10,20,German Grand Prix,"Cloudy, (light) rain at start",0,0,0,1,1
+851,2011,11,11,Hungarian Grand Prix,"Cloudy, rain showers",0,0,0,1,1
+852,2011,12,13,Belgian Grand Prix,"Cloudy, dry",0,0,1,0,1
+853,2011,13,14,Italian Grand Prix,Mainly sunny,1,0,0,0,0
+854,2011,14,15,Singapore Grand Prix,Hot and humidAir Temp 31 °C (88 °F)[1],1,0,0,0,0
+855,2011,15,22,Japanese Grand Prix,Sunny and dryAir Temp 24 °C (75 °F)[3],1,0,1,0,0
+856,2011,16,35,Korean Grand Prix,"Dry, light rain at the startAir Temp 21 °C (70 °F)[2]",0,0,1,1,0
+857,2011,17,68,Indian Grand Prix,Fine and DryAir Temp 30 °C (86 °F)[1],1,0,1,0,0
+858,2011,18,24,Abu Dhabi Grand Prix,Fine and DryAir Temp 25 °C (77 °F)[1],1,0,1,0,0
+859,2011,19,18,Brazilian Grand Prix,FineAir Temp 24 °C (75 °F)Track Temp 43 °C (109 °F)[1],1,0,0,0,0
+860,2012,1,1,Australian Grand Prix,Fine[1]Air Temp 22 °C (72 °F)[1]Track Temp 30 °C (86 °F) dropping to 22 °C (72 °F)[1],1,0,0,0,0
+861,2012,2,2,Malaysian Grand Prix,Heavy rain clearing to cloudy and dry[2]Air Temp 26 °C (79 °F)[2]Track Temp 29 °C (84 °F) dropping to 24 °C (75 °F)[2],1,0,1,1,1
+862,2012,3,17,Chinese Grand Prix,Overcast but Dry[1]Air Temp 22 °C (72 °F)[1]Track Temp 23 °C (73 °F)[1],0,0,1,0,1
+863,2012,4,3,Bahrain Grand Prix,Sunny and hot[1][2]Air Temp 27 °C (81 °F)[2]Track Temp 33 °C (91 °F) dropping to 29 °C (84 °F)[2],1,0,0,0,0
+864,2012,5,4,Spanish Grand Prix,"Partially cloudy, dry: Air 23 °C (73 °F), Track 36 °C (97 °F)",0,0,1,0,1
+865,2012,6,6,Monaco Grand Prix,"Fine and Dry, showers threatening at end[2]Air Temp 21 °C (70 °F)[2]Track Temp 38 °C (100 °F) dropping to 31 °C (88 °F)[2]",1,0,1,1,0
+866,2012,7,7,Canadian Grand Prix,"Fine, dry and warm;[2]with air temperature approaching 29 °C (84 °F)[2]Track Temp 45 °C (113 °F) dropping to 39 °C (102 °F)[2]",1,0,1,0,0
+867,2012,8,12,European Grand Prix,Fine and Dry[2]Air Temp 27 °C (81 °F)[2]Track Temp 45 °C (113 °F)[2],1,0,1,0,0
+868,2012,9,9,British Grand Prix,DryAir Temp 20 °C (68 °F)[2]Track Temp 31 °C (88 °F)[2],0,0,1,0,0
+869,2012,10,10,German Grand Prix,Fine and Dry[2]Air Temp 22 °C (72 °F)[2]Track Temp 30 °C (86 °F)[2],1,0,1,0,0
+870,2012,11,11,Hungarian Grand Prix,Fine and Dry. Very Hot[2][3]Air Temp 30 °C (86 °F)[3]Track Temp 45 °C (113 °F)[3],1,0,1,0,0
+871,2012,12,13,Belgian Grand Prix,Fine and Dry[4]Air Temp 23 °C (73 °F)[4]Track Temp 33 °C (91 °F)[4],1,0,1,0,0
+872,2012,13,14,Italian Grand Prix,Dry and sizzlingly sunny[2]Air temp 28 °C (82 °F)[2]Track temp 40 °C (104 °F)[2],1,0,1,0,0
+873,2012,14,15,Singapore Grand Prix,Hot and humid[2]Air Temp 29 °C (84 °F)[2]Track Temp 31 °C (88 °F)[2],1,0,0,0,0
+874,2012,15,22,Japanese Grand Prix,Fine and Dry[2]Air Temp 23 °C (73 °F)[2]Track Temp 32 °C (90 °F)[2],1,0,1,0,0
+875,2012,16,35,Korean Grand Prix,Fine and Dry[3]Air Temp 21 °C (70 °F)[3]Track Temp 27 °C (81 °F) dropping to 23 °C (73 °F)[3],1,0,1,0,0
+876,2012,17,68,Indian Grand Prix,"Fine, Dry, a little hazy and a little dusty[2]Air Temp 30 °C (86 °F)[2]Track Temp 36 °C (97 °F) dropping to 31 °C (88 °F)[2]",1,0,1,0,0
+877,2012,18,24,Abu Dhabi Grand Prix,Dry[2]Air Temp 29 °C (84 °F)[2]Track Temp 34 °C (93 °F) dropping to 29 °C (84 °F)[2],0,0,1,0,0
+878,2012,19,69,United States Grand Prix,Scattered clouds[2][3]Air temp 24 °C (75 °F)[3]Track temp 32 °C (90 °F)[3],0,0,0,0,1
+879,2012,20,18,Brazilian Grand Prix,"Race start: drops of rain, light rain shower getting heavier at the end.[2]Air Temp 19 °C (66 °F)[2]Track Temp 21 °C (70 °F)[2]",0,0,0,1,0
+880,2013,1,1,Australian Grand Prix,"Scattered Clouds, Fine and Dry[2]Air Temp 18 °C (64 °F)[2]Track Temp 25 °C (77 °F) dropping to 19 °C (66 °F)[2]",1,0,1,0,1
+881,2013,2,2,Malaysian Grand Prix,Light rain clearing to cloudy and dry,1,0,1,1,1
+882,2013,3,17,Chinese Grand Prix,Cloudy,0,0,0,0,1
+883,2013,4,3,Bahrain Grand Prix,Sunny,1,0,0,0,0
+884,2013,5,4,Spanish Grand Prix,Sunny,1,0,0,0,0
+885,2013,6,6,Monaco Grand Prix,Warm and sunny,1,0,0,0,0
+886,2013,7,7,Canadian Grand Prix,Mild with temperatures approaching 23 °C (73 °F); wind speeds up to 15 kilometres per hour (9.3 mph)[2],1,0,0,0,0
+887,2013,8,9,British Grand Prix,Dry,0,0,1,0,0
+888,2013,9,20,German Grand Prix,Sunny,1,0,0,0,0
+890,2013,10,11,Hungarian Grand Prix,"Very hot and sunny, 35°C.",1,0,0,0,0
+891,2013,11,13,Belgian Grand Prix,Cloudy,0,0,0,0,1
+892,2013,12,14,Italian Grand Prix,Cloudy,0,0,0,0,1
+893,2013,13,15,Singapore Grand Prix,Dry and 29 degrees,0,0,1,0,0
+894,2013,14,35,Korean Grand Prix,Cloudy with maximum temperatures reaching 29 degrees during the day,0,0,0,0,1
+895,2013,15,22,Japanese Grand Prix,Warm and sunny,1,0,0,0,0
+896,2013,16,68,Indian Grand Prix,"Sunny, haze",1,0,0,0,0
+897,2013,17,24,Abu Dhabi Grand Prix,Clear,1,0,0,0,0
+898,2013,18,69,United States Grand Prix,"Partly cloudy, warmTemperatures reaching up to 89.1 °F (31.7 °C); wind speeds approaching speeds of 11.1 miles per hour (17.9 km/h)[2]",1,0,0,0,1
+899,2013,19,18,Brazilian Grand Prix,"Cloudy, Air Temp: 18°C",0,0,0,0,1
+900,2014,1,1,Australian Grand Prix,"Overcast, 19 °C(66 °F)",0,0,0,0,1
+901,2014,2,2,Malaysian Grand Prix,"Dry, 32°C",0,0,1,0,0
+902,2014,3,3,Bahrain Grand Prix,Dry,0,0,1,0,0
+903,2014,4,17,Chinese Grand Prix,"Mostly cloudy, dry",0,0,1,0,1
+904,2014,5,4,Spanish Grand Prix,Sunny,1,0,0,0,0
+905,2014,6,6,Monaco Grand Prix,"Overcast, Air: 20 to 21 °C (68 to 70 °F), Track: 28 to 30 °C (82 to 86 °F).",0,0,0,0,1
+906,2014,7,7,Canadian Grand Prix,Temperatures up to 27.6 °C (81.7 °F); wind speeds up to 16.4 kilometres per hour (10.2 mph)[5],0,0,0,0,0
+907,2014,8,70,Austrian Grand Prix,"Partially cloudy, hot and dry",1,0,1,0,1
+908,2014,9,9,British Grand Prix,Mostly cloudy with maximum temperatures reaching 21 degrees during the day.,0,0,0,0,1
+909,2014,10,10,German Grand Prix,Cloudy with maximum temperatures reaching 26 degrees during the day.,0,0,0,0,1
+910,2014,11,11,Hungarian Grand Prix,"Overcast. Wet track at start, then drying.Scattered thunderstorms during the day, temperatures reaching a maximum of 26 degrees.[1]",0,0,1,1,1
+911,2014,12,13,Belgian Grand Prix,Mostly cloudy,0,0,0,0,1
+912,2014,13,14,Italian Grand Prix,"Sunny; Air: 25 °C (77 °F), Track: 37 to 42 °C (99 to 108 °F)",1,0,0,0,0
+913,2014,14,15,Singapore Grand Prix,Clear. Air: 28 to 30 °C (82 to 86 °F) Track: 33 to 37 °C (91 to 99 °F).,1,0,0,0,0
+914,2014,15,22,Japanese Grand Prix,Rain. Air: 20 °C (68 °F) Track: 24 °C (75 °F),0,0,0,1,0
+915,2014,16,71,Russian Grand Prix,"Fine and dry;21 °C (70 °F) ambient temperature,33 °C (91 °F) track temperature[4]",1,0,1,0,0
+916,2014,17,69,United States Grand Prix,Sunny,1,0,0,0,0
+917,2014,18,18,Brazilian Grand Prix,"Sunny, Air: 23 to 24 °C (73 to 75 °F), Track: 46 to 50 °C (115 to 122 °F)",1,0,0,0,0
+918,2014,19,24,Abu Dhabi Grand Prix,"Clear skies; Air temp: 30 °C (86 °F) during the day, dropping to 24 °C (75.2 °F). Wind speed: 8 km/h (4.9 mph).[2](Night race)",1,0,0,0,0
+931,2015,6,6,Monaco Grand Prix,Partly cloudy18–19 °C (64–66 °F) air temperature31–37 °C (88–99 °F) track temperature1.5 m/s (4.9 ft/s) wind from the west[2],0,0,0,0,1
+932,2015,7,7,Canadian Grand Prix,Sunny20–21 °C (68–70 °F) air temperature39 °C (102 °F) track temperature4 m/s (13 ft/s) wind from the north[2],1,0,0,0,0
+929,2015,4,3,Bahrain Grand Prix,"Sunny, clear24–26 °C (75–79 °F) air temperature28–31 °C (82–88 °F) track temperature1.5 m/s (4.9 ft/s) wind from the north[1]",1,0,0,0,0
+930,2015,5,4,Spanish Grand Prix,Sunny25 °C (77 °F) air temperature44 °C (111 °F) track temperature1.8 m/s (5.9 ft/s) wind from the northeast[3],1,0,0,0,0
+928,2015,3,17,Chinese Grand Prix,Sunny21 °C (70 °F) air temperature46 °C (115 °F) track temperature1.4 m/s (4.6 ft/s) wind from the northwest[1],1,0,0,0,0
+926,2015,1,1,Australian Grand Prix,Partly cloudy17–18 °C (63–64 °F) air temperature32–37 °C (90–99 °F) track temperature6 m/s (20 ft/s) wind from the south[3],0,0,0,0,1
+927,2015,2,2,Malaysian Grand Prix,Sunny32–33 °C (90–91 °F) air temperature53–58 °C (127–136 °F) track temperature2 m/s (6.6 ft/s) wind from the south[3],1,0,0,0,0
+933,2015,8,70,Austrian Grand Prix,Cloudy14–15 °C (57–59 °F) air temperature27–32 °C (81–90 °F) track temperature2 m/s (6.6 ft/s) wind from the west[2],0,0,0,0,1
+934,2015,9,9,British Grand Prix,"Cloudy, rain at times17–20 °C (63–68 °F) air temperature24–32 °C (75–90 °F) track temperature2.5 m/s (8.2 ft/s) wind from the east[2]",0,0,0,1,1
+936,2015,10,11,Hungarian Grand Prix,Sunny22–24 °C (72–75 °F) air temperature41–48 °C (106–118 °F) track temperature3.2 m/s (10 ft/s) wind from the east[2],1,0,0,0,0
+937,2015,11,13,Belgian Grand Prix,Cloudy23 °C (73 °F) air temperature33–37 °C (91–99 °F) track temperature3.5 m/s (11 ft/s) wind from the northwest[2],0,0,0,0,1
+938,2015,12,14,Italian Grand Prix,Partly cloudy22–23 °C (72–73 °F) air temperature38–39 °C (100–102 °F) track temperature1.5 m/s (4.9 ft/s) wind from changing directions[2],0,0,0,0,1
+939,2015,13,15,Singapore Grand Prix,Dry28–29 °C (82–84 °F) air temperature34–36 °C (93–97 °F) track temperature0.5 m/s (1.6 ft/s) wind from the west[2],0,0,1,0,0
+940,2015,14,22,Japanese Grand Prix,Partly cloudy27 °C (81 °F) air temperature52–54 °C (126–129 °F) track temperature4.5 m/s (15 ft/s) wind from the east[2],0,0,0,0,1
+941,2015,15,71,Russian Grand Prix,Partly cloudy18 °C (64 °F) air temperature25–27 °C (77–81 °F) track temperature1.5 m/s (4.9 ft/s) wind from the north[2],0,0,0,0,1
+942,2015,16,69,United States Grand Prix,Very cloudy17 °C (63 °F) air temperature17–20 °C (63–68 °F) track temperature8 m/s (26 ft/s) wind from the south[2],0,0,0,0,1
+943,2015,17,32,Mexican Grand Prix,Partly cloudy22–24 °C (72–75 °F) air temperature48–56 °C (118–133 °F) track temperature1.5 m/s (4.9 ft/s) wind from the northwest[2],0,0,0,0,1
+944,2015,18,18,Brazilian Grand Prix,Dry22–28 °C (72–82 °F) air temperature38–48 °C (100–118 °F) track temperature2.5 m/s (8.2 ft/s) wind from the north[2],0,0,1,0,0
+945,2015,19,24,Abu Dhabi Grand Prix,Clear25–27 °C (77–81 °F) air temperature28–29 °C (82–84 °F) track temperature1.5 m/s (4.9 ft/s) wind from the south[3],1,0,0,0,0
+948,2016,1,1,Australian Grand Prix,Partly cloudy22–23 °C (72–73 °F) air temperature26–36 °C (79–97 °F) track temperature4 m/s (8.9 mph; 14 km/h) wind from the south[4],0,0,0,0,1
+949,2016,2,3,Bahrain Grand Prix,Dry21–22 °C (70–72 °F) air temperature26–29 °C (79–84 °F) track temperature2 m/s (6.6 ft/s) wind from the southwest[4],0,0,1,0,0
+950,2016,3,17,Chinese Grand Prix,Sunny21 °C (70 °F) air temperature37 °C (99 °F) track temperature4.8 m/s (16 ft/s) wind from the northeast[4],1,0,0,0,0
+951,2016,4,71,Russian Grand Prix,Partly cloudy16 °C (61 °F) air temperature37–41 °C (99–106 °F) track temperature2.5 m/s (8.2 ft/s) wind from the southwest[4],0,0,0,0,1
+952,2016,5,4,Spanish Grand Prix,Partly cloudy20–22 °C (68–72 °F) air temperature39–41 °C (102–106 °F) track temperature2 m/s (6.6 ft/s) wind from the north[4],0,0,0,0,1
+953,2016,6,6,Monaco Grand Prix,"Rainy at start, dry later17–18 °C (63–64 °F) air temperature20–22 °C (68–72 °F) track temperature2 m/s (6.6 ft/s) wind from the north[4]",0,0,1,1,0
+954,2016,7,7,Canadian Grand Prix,Cloudy12 °C (54 °F) air temperature21–23 °C (70–73 °F) track temperature2.5 m/s (8.2 ft/s) wind from the southeast[4],0,0,0,0,1
+955,2016,8,73,European Grand Prix,Partly cloudy30–33 °C (86–91 °F) air temperature39–45 °C (102–113 °F) track temperature2.5 m/s (8.2 ft/s) wind from the southeast[4],0,0,0,0,1
+956,2016,9,70,Austrian Grand Prix,Cloudy,0,0,0,0,1
+957,2016,10,9,British Grand Prix,"Wet at start, dry later",0,0,1,1,0
+958,2016,11,11,Hungarian Grand Prix,Sunny,1,0,0,0,0
+959,2016,12,10,German Grand Prix,Partially cloudy and dry,0,0,1,0,1
+960,2016,13,13,Belgian Grand Prix,Partially cloudy and dry,0,0,1,0,1
+961,2016,14,14,Italian Grand Prix,"Sunny, warm",1,0,0,0,0
+962,2016,15,15,Singapore Grand Prix,Clear30 °C (86 °F) air temperature34–35 °C (93–95 °F) track temperature1.5 m/s (4.9 ft/s) wind from the east[2],1,0,0,0,0
+963,2016,16,2,Malaysian Grand Prix,Sunny33 °C (91 °F) air temperature49 °C (120 °F) track temperature2.8 m/s (9.2 ft/s) wind from the west[2],1,0,0,0,0
+964,2016,17,22,Japanese Grand Prix,Cloudy,0,0,0,0,1
+965,2016,18,69,United States Grand Prix,Sunny and hot with temperatures reaching up to 84 °F (29 °C); wind speeds approaching speeds of 9.2 miles per hour (14.8 km/h)[2],1,0,0,0,0
+966,2016,19,32,Mexican Grand Prix,Sunny,1,0,0,0,0
+967,2016,20,18,Brazilian Grand Prix,Rain and 16 °C (60.8 °F),0,0,0,1,0
+968,2016,21,24,Abu Dhabi Grand Prix,Sunny,1,0,0,0,0
+969,2017,1,1,Australian Grand Prix,Partly cloudy24 °C (75 °F) air temperature31–36 °C (88–97 °F) track temperature2 m/s (4.5 mph; 7.2 km/h) wind from the northwest[3],0,0,0,0,1
+970,2017,2,17,Chinese Grand Prix,"Light rain at start, drying later.",0,0,1,1,0
+971,2017,3,3,Bahrain Grand Prix,Clear,1,0,0,0,0
+972,2017,4,71,Russian Grand Prix,Sunny,1,0,0,0,0
+973,2017,5,4,Spanish Grand Prix,Sunny,1,0,0,0,0
+974,2017,6,6,Monaco Grand Prix,Sunny,1,0,0,0,0
+975,2017,7,7,Canadian Grand Prix,Sunny and hot with temperatures reaching up to 29 °C (84 °F); wind speeds reaching 12.9 kilometres per hour (8.0 mph)[4],1,0,0,0,0
+976,2017,8,73,Azerbaijan Grand Prix,Sunny,1,0,0,0,0
+977,2017,9,70,Austrian Grand Prix,Partly cloudy,0,0,0,0,1
+978,2017,10,9,British Grand Prix,Overcast,0,0,0,0,1
+979,2017,11,11,Hungarian Grand Prix,Sunny,1,0,0,0,0
+980,2017,12,13,Belgian Grand Prix,Partially cloudy and dry,0,0,1,0,1
+981,2017,13,14,Italian Grand Prix,Sunny,1,0,0,0,0
+982,2017,14,15,Singapore Grand Prix,"Wet at start, then drying. Air temperature: 28°C (82°F)",0,0,1,1,0
+983,2017,15,2,Malaysian Grand Prix,Cloudy,0,0,0,0,1
+984,2017,16,22,Japanese Grand Prix,Sunny,1,0,0,0,0
+985,2017,17,69,United States Grand Prix,Sunny with temperatures reaching up to 82.9 °F (28.3 °C); wind speeds approaching speeds of 13.8 miles per hour (22.2 km/h)[4],1,0,0,0,0
+986,2017,18,32,Mexican Grand Prix,"Sunny, dry",1,0,1,0,0
+987,2017,19,18,Brazilian Grand Prix,Sunny,1,0,0,0,0
+988,2017,20,24,Abu Dhabi Grand Prix,Clear,1,0,0,0,0
+989,2018,1,1,Australian Grand Prix,Sunny,1,0,0,0,0
+990,2018,2,3,Bahrain Grand Prix,Clear,1,0,0,0,0
+991,2018,3,17,Chinese Grand Prix,Sunny,1,0,0,0,0
+992,2018,4,73,Azerbaijan Grand Prix,Cloudy,0,0,0,0,1
+993,2018,5,4,Spanish Grand Prix,"Partially cloudy and dry, 16°C and cold.",0,1,1,0,1
+994,2018,6,6,Monaco Grand Prix,Sunny,1,0,0,0,0
+995,2018,7,7,Canadian Grand Prix,Temperatures reaching up to 22.7 °C (72.9 °F); with wind speeds reaching 11.1 kilometres per hour (6.9 mph)[2],0,0,0,0,0
+996,2018,8,34,French Grand Prix,"Partially cloudy, warm and dry",1,0,1,0,1
+997,2018,9,70,Austrian Grand Prix,Sunny,1,0,0,0,0
+998,2018,10,9,British Grand Prix,Sunny 27.0 °C (80.6 °F)[2],1,0,0,0,0
+999,2018,11,10,German Grand Prix,Overcast with intermittent rain,0,0,0,1,1
+1000,2018,12,11,Hungarian Grand Prix,Sunny,1,0,0,0,0
+1001,2018,13,13,Belgian Grand Prix,Cloudy,0,0,0,0,1
+1002,2018,14,14,Italian Grand Prix,Sunny,1,0,0,0,0
+1003,2018,15,15,Singapore Grand Prix,Clear,1,0,0,0,0
+1004,2018,16,71,Russian Grand Prix,Cloudy,0,0,0,0,1
+1005,2018,17,22,Japanese Grand Prix,Partly cloudy,0,0,0,0,1
+1006,2018,18,69,United States Grand Prix,Partly cloudy,0,0,0,0,1
+1007,2018,19,32,Mexican Grand Prix,Sunny,1,0,0,0,0
+1008,2018,20,18,Brazilian Grand Prix,Cloudy,0,0,0,0,1
+1009,2018,21,24,Abu Dhabi Grand Prix,Clear,1,0,0,0,0
+1010,2019,1,1,Australian Grand Prix,Sunny,1,0,0,0,0
+1011,2019,2,3,Bahrain Grand Prix,Clear,1,0,0,0,0
+1012,2019,3,17,Chinese Grand Prix,Partly cloudy,0,0,0,0,1
+1013,2019,4,73,Azerbaijan Grand Prix,Mostly sunny,1,0,0,0,0
+1014,2019,5,4,Spanish Grand Prix,Sunny,1,0,0,0,0
+1015,2019,6,6,Monaco Grand Prix,Overcast,0,0,0,0,1
+1016,2019,7,7,Canadian Grand Prix,Temperatures reaching up to 29.6 °C (85.3 °F); wind speeds negligible[2],0,0,0,0,0
+1017,2019,8,34,French Grand Prix,Clear,1,0,0,0,0
+1018,2019,9,70,Austrian Grand Prix,"Sunny, 36C (97F)",1,0,0,0,0
+1019,2019,10,9,British Grand Prix,Partly cloudy,0,0,0,0,1
+1020,2019,11,10,German Grand Prix,"Early rain, Late clouds",0,0,0,1,1
+1021,2019,12,11,Hungarian Grand Prix,Sunny,1,0,0,0,0
+1022,2019,13,13,Belgian Grand Prix,Partly cloudy,0,0,0,0,1
+1023,2019,14,14,Italian Grand Prix,Partly cloudy,0,0,0,0,1
+1024,2019,15,15,Singapore Grand Prix,Slightly hazy,0,0,0,0,0
+1025,2019,16,71,Russian Grand Prix,Partly cloudy,0,0,0,0,1
+1026,2019,17,22,Japanese Grand Prix,Sunny,1,0,0,0,0
+1027,2019,18,32,Mexican Grand Prix,Partly cloudy,0,0,0,0,1
+1028,2019,19,69,United States Grand Prix,Sunny,1,0,0,0,0
+1029,2019,20,18,Brazilian Grand Prix,Sunny,1,0,0,0,0
+1030,2019,21,24,Abu Dhabi Grand Prix,Clear,1,0,0,0,0
+1031,2020,1,70,Austrian Grand Prix,Sunny,1,0,0,0,0
+1032,2020,2,70,Styrian Grand Prix,Sunny,1,0,0,0,0
+1033,2020,3,11,Hungarian Grand Prix,"Wet at start, partly cloudy",0,0,0,1,1
+1034,2020,4,9,British Grand Prix,Partly cloudy,0,0,0,0,1
+1035,2020,5,9,70th Anniversary Grand Prix,Sunny,1,0,0,0,0
+1036,2020,6,4,Spanish Grand Prix,Partly cloudy,0,0,0,0,1
+1037,2020,7,13,Belgian Grand Prix,Partly cloudy,0,0,0,0,1
+1038,2020,8,14,Italian Grand Prix,Sunny,1,0,0,0,0
+1039,2020,9,76,Tuscan Grand Prix,Sunny,1,0,0,0,0
+1040,2020,10,71,Russian Grand Prix,Sunny,1,0,0,0,0
+1041,2020,11,20,Eifel Grand Prix,"Partly cloudy, 10 °C (50 °F)",0,0,0,0,1
+1042,2020,12,75,Portuguese Grand Prix,Cloudy,0,0,0,0,1
+1043,2020,13,21,Emilia Romagna Grand Prix,Partly cloudy,0,0,0,0,1
+1044,2020,14,5,Turkish Grand Prix,Overcast. Wet and drying track. Air: 11–14 °C (52–57 °F); Track: 14–17 °C (57–63 °F),0,0,1,1,1
+1045,2020,15,3,Bahrain Grand Prix,Clear,1,0,0,0,0
+1046,2020,16,3,Sakhir Grand Prix,Clear,1,0,0,0,0
+1047,2020,17,24,Abu Dhabi Grand Prix,Clear,1,0,0,0,0
+1053,2021,2,21,Emilia Romagna Grand Prix,"Wet at start, drying during race, 9 °C (48 °F)",0,0,1,1,0
+1052,2021,1,3,Bahrain Grand Prix,"Clear, 21 °C (70 °F)",1,0,0,0,0
+1051,2021,20,78,Qatar Grand Prix,Clear,1,0,0,0,0
+1054,2021,3,75,Portuguese Grand Prix,Light cloud,0,0,0,0,0
+1055,2021,4,4,Spanish Grand Prix,Cloudy,0,0,0,0,1
+1056,2021,5,6,Monaco Grand Prix,Sunny,1,0,0,0,0
+1057,2021,6,73,Azerbaijan Grand Prix,Sunny,1,0,0,0,0
+1058,2021,8,70,Styrian Grand Prix,Partly cloudy. Ambient temperature: 25 to 29 °C (77 to 84 °F); Surface temperature: 48 to 56 °C (118 to 133 °F),0,0,0,0,1
+1059,2021,7,34,French Grand Prix,Windy and partly cloudy. Ambient temperature: 24 to 27 °C (75 to 81 °F); Surface temperature: 33 to 38 °C (91 to 100 °F),0,0,0,0,1
+1060,2021,9,70,Austrian Grand Prix,Partly cloudy,0,0,0,0,1
+1061,2021,10,9,British Grand Prix,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),1,0,0,0,0
+1062,2021,11,11,Hungarian Grand Prix,Rain and sunny. Ambient: 26 to 29 °C (79 to 84 °F); Surface: 31 to 52 °C (88 to 126 °F).[3],1,0,0,1,0
+1063,2021,12,13,Belgian Grand Prix,Wet; persistent rain,0,0,0,1,0
+1064,2021,13,39,Dutch Grand Prix,Sunny,1,0,0,0,0
+1065,2021,14,14,Italian Grand Prix,Sunny,1,0,0,0,0
+1066,2021,15,71,Russian Grand Prix,Cloudy and rainy,0,0,0,1,1
+1067,2021,16,5,Turkish Grand Prix,Overcast with intermittent rain,0,0,0,1,1
+1069,2021,17,69,United States Grand Prix,Sunny,1,0,0,0,0
+1070,2021,18,32,Mexico City Grand Prix,Sunny,1,0,0,0,0
+1071,2021,19,18,São Paulo Grand Prix,Sunny,1,0,0,0,0
+1072,2021,21,77,Saudi Arabian Grand Prix,Clear,1,0,0,0,0
+1073,2021,22,24,Abu Dhabi Grand Prix,Clear,1,0,0,0,0
