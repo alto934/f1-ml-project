@@ -5,4 +5,4 @@ Run random_forest_classifier.ipynb  to see model 1.\
 Run logistic.ipynb  to see model 2.\
 Run svm_classifier.ipynb  to see model 3.\
 Run nn_classifier.ipynb  to see model 4.\
-Suggestion: VSCode is a good IDE to run the notebooks.\
+Suggestion: VSCode is a good IDE to run the notebooks.
